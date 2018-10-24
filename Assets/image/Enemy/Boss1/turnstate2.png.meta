@@ -1,0 +1,798 @@
+fileFormatVersion: 2
+guid: 0b598fcc942d7a14ca5c66578bfe2d01
+timeCreated: 1517208160
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: turnstate2_0
+    21300002: turnstate2_1
+    21300004: turnstate2_2
+    21300006: turnstate2_3
+    21300008: turnstate2_4
+    21300010: turnstate2_5
+    21300012: turnstate2_6
+    21300014: turnstate2_7
+    21300016: turnstate2_8
+    21300018: turnstate2_9
+    21300020: turnstate2_10
+    21300022: turnstate2_11
+    21300024: turnstate2_12
+    21300026: turnstate2_13
+    21300028: turnstate2_14
+    21300030: turnstate2_15
+    21300032: turnstate2_16
+    21300034: turnstate2_17
+    21300036: turnstate2_18
+    21300038: turnstate2_19
+    21300040: turnstate2_20
+    21300042: turnstate2_21
+    21300044: turnstate2_22
+    21300046: turnstate2_23
+    21300048: turnstate2_24
+    21300050: turnstate2_25
+    21300052: turnstate2_26
+    21300054: turnstate2_27
+    21300056: turnstate2_28
+    21300058: turnstate2_29
+    21300060: turnstate2_30
+    21300062: turnstate2_31
+    21300064: turnstate2_32
+    21300066: turnstate2_33
+    21300068: turnstate2_34
+    21300070: turnstate2_35
+    21300072: turnstate2_36
+    21300074: turnstate2_37
+    21300076: turnstate2_38
+    21300078: turnstate2_39
+    21300080: turnstate2_40
+    21300082: turnstate2_41
+    21300084: turnstate2_42
+    21300086: turnstate2_43
+    21300088: turnstate2_44
+    21300090: turnstate2_45
+    21300092: turnstate2_46
+    21300094: turnstate2_47
+    21300096: turnstate2_48
+    21300098: turnstate2_49
+    21300100: turnstate2_50
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Android
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: turnstate2_0
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 87
+        width: 38
+        height: 39
+      alignment: 9
+      pivot: {x: 0.5, y: 0.51282054}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: turnstate2_1
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 87
+        width: 38
+        height: 36
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5555556}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: turnstate2_2
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 87
+        width: 33
+        height: 33
+      alignment: 9
+      pivot: {x: 0.5, y: 0.6060606}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: turnstate2_3
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 87
+        width: 30
+        height: 29
+      alignment: 9
+      pivot: {x: 0.5, y: 0.6896552}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: turnstate2_4
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 87
+        width: 27
+        height: 27
+      alignment: 9
+      pivot: {x: 0.5, y: 0.7407407}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: turnstate2_5
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 87
+        width: 24
+        height: 25
+      alignment: 9
+      pivot: {x: 0.5, y: 0.8}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: turnstate2_6
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 87
+        width: 27
+        height: 20
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: turnstate2_7
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 87
+        width: 30
+        height: 20
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: turnstate2_8
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 87
+        width: 34
+        height: 20
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: turnstate2_9
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 87
+        width: 39
+        height: 20
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: turnstate2_10
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 55
+        width: 38
+        height: 20
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: turnstate2_11
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 55
+        width: 38
+        height: 20
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: turnstate2_12
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 55
+        width: 38
+        height: 20
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: turnstate2_13
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 55
+        width: 38
+        height: 20
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: turnstate2_14
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 55
+        width: 36
+        height: 20
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: turnstate2_15
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 55
+        width: 32
+        height: 20
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: turnstate2_16
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 55
+        width: 30
+        height: 20
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: turnstate2_17
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 55
+        width: 29
+        height: 20
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: turnstate2_18
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 55
+        width: 27
+        height: 20
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: turnstate2_19
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 55
+        width: 30
+        height: 20
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: turnstate2_20
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 55
+        width: 34
+        height: 20
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: turnstate2_21
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 55
+        width: 35
+        height: 20
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: turnstate2_22
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 55
+        width: 38
+        height: 20
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: turnstate2_23
+      rect:
+        serializedVersion: 2
+        x: 525
+        y: 55
+        width: 43
+        height: 20
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: turnstate2_24
+      rect:
+        serializedVersion: 2
+        x: 573
+        y: 55
+        width: 43
+        height: 20
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: turnstate2_25
+      rect:
+        serializedVersion: 2
+        x: 622
+        y: 55
+        width: 43
+        height: 20
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: turnstate2_26
+      rect:
+        serializedVersion: 2
+        x: 670
+        y: 55
+        width: 43
+        height: 20
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: turnstate2_27
+      rect:
+        serializedVersion: 2
+        x: 719
+        y: 55
+        width: 43
+        height: 21
+      alignment: 9
+      pivot: {x: 0.5, y: 0.95238096}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: turnstate2_28
+      rect:
+        serializedVersion: 2
+        x: 767
+        y: 55
+        width: 43
+        height: 23
+      alignment: 9
+      pivot: {x: 0.5, y: 0.8695652}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: turnstate2_29
+      rect:
+        serializedVersion: 2
+        x: 816
+        y: 55
+        width: 43
+        height: 21
+      alignment: 9
+      pivot: {x: 0.5, y: 0.952381}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: turnstate2_30
+      rect:
+        serializedVersion: 2
+        x: 865
+        y: 55
+        width: 43
+        height: 20
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: turnstate2_31
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 6
+        width: 43
+        height: 21
+      alignment: 9
+      pivot: {x: 0.5, y: 0.95238096}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: turnstate2_32
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 6
+        width: 43
+        height: 23
+      alignment: 9
+      pivot: {x: 0.5, y: 0.8695652}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: turnstate2_33
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 6
+        width: 43
+        height: 26
+      alignment: 9
+      pivot: {x: 0.5, y: 0.7692308}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: turnstate2_34
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 6
+        width: 43
+        height: 26
+      alignment: 9
+      pivot: {x: 0.5, y: 0.7692308}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: turnstate2_35
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 6
+        width: 43
+        height: 26
+      alignment: 9
+      pivot: {x: 0.5, y: 0.7692308}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: turnstate2_36
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 6
+        width: 43
+        height: 26
+      alignment: 9
+      pivot: {x: 0.5, y: 0.7692308}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: turnstate2_37
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 6
+        width: 43
+        height: 26
+      alignment: 9
+      pivot: {x: 0.5, y: 0.7692308}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: turnstate2_38
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 6
+        width: 43
+        height: 26
+      alignment: 9
+      pivot: {x: 0.5, y: 0.7692308}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: turnstate2_39
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 6
+        width: 43
+        height: 25
+      alignment: 9
+      pivot: {x: 0.5, y: 0.8}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: turnstate2_40
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 6
+        width: 43
+        height: 25
+      alignment: 9
+      pivot: {x: 0.5, y: 0.8}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: turnstate2_41
+      rect:
+        serializedVersion: 2
+        x: 501
+        y: 6
+        width: 43
+        height: 25
+      alignment: 9
+      pivot: {x: 0.5, y: 0.8}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: turnstate2_42
+      rect:
+        serializedVersion: 2
+        x: 549
+        y: 6
+        width: 42
+        height: 25
+      alignment: 9
+      pivot: {x: 0.5, y: 0.8}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: turnstate2_43
+      rect:
+        serializedVersion: 2
+        x: 597
+        y: 6
+        width: 41
+        height: 25
+      alignment: 9
+      pivot: {x: 0.5, y: 0.8}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: turnstate2_44
+      rect:
+        serializedVersion: 2
+        x: 644
+        y: 6
+        width: 39
+        height: 27
+      alignment: 9
+      pivot: {x: 0.5, y: 0.7407407}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: turnstate2_45
+      rect:
+        serializedVersion: 2
+        x: 690
+        y: 6
+        width: 33
+        height: 30
+      alignment: 9
+      pivot: {x: 0.5, y: 0.6666667}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: turnstate2_46
+      rect:
+        serializedVersion: 2
+        x: 729
+        y: 6
+        width: 30
+        height: 29
+      alignment: 9
+      pivot: {x: 0.5, y: 0.6896552}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: turnstate2_47
+      rect:
+        serializedVersion: 2
+        x: 766
+        y: 6
+        width: 26
+        height: 33
+      alignment: 9
+      pivot: {x: 0.5, y: 0.6060606}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: turnstate2_48
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 6
+        width: 28
+        height: 35
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5714286}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: turnstate2_49
+      rect:
+        serializedVersion: 2
+        x: 837
+        y: 6
+        width: 28
+        height: 39
+      alignment: 9
+      pivot: {x: 0.5, y: 0.51282054}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: turnstate2_50
+      rect:
+        serializedVersion: 2
+        x: 875
+        y: 6
+        width: 25
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

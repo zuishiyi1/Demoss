@@ -1,0 +1,3 @@
+money:1
+items:wepon_cold.1,shield_invincible.2
+end

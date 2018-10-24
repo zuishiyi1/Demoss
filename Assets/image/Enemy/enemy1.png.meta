@@ -1,0 +1,2286 @@
+fileFormatVersion: 2
+guid: 31d2e112aaee85543a97cc04319439a2
+timeCreated: 1500968352
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: enemy1_0
+    21300002: enemy1_1
+    21300004: enemy1_2
+    21300006: enemy1_3
+    21300008: enemy1_4
+    21300010: enemy1_5
+    21300012: enemy1_6
+    21300014: enemy1_7
+    21300016: enemy1_8
+    21300018: enemy1_9
+    21300020: enemy1_10
+    21300022: enemy1_11
+    21300024: enemy1_12
+    21300026: enemy1_13
+    21300028: enemy1_14
+    21300030: enemy1_15
+    21300032: enemy1_16
+    21300034: enemy1_17
+    21300036: enemy1_18
+    21300038: enemy1_19
+    21300040: enemy1_20
+    21300042: enemy1_21
+    21300044: enemy1_22
+    21300046: enemy1_23
+    21300048: enemy1_24
+    21300050: enemy1_25
+    21300052: enemy1_26
+    21300054: enemy1_27
+    21300056: enemy1_28
+    21300058: enemy1_29
+    21300060: enemy1_30
+    21300062: enemy1_31
+    21300064: enemy1_32
+    21300066: enemy1_33
+    21300068: enemy1_34
+    21300070: enemy1_35
+    21300072: enemy1_36
+    21300074: enemy1_37
+    21300076: enemy1_38
+    21300078: enemy1_39
+    21300080: enemy1_40
+    21300082: enemy1_41
+    21300084: enemy1_42
+    21300086: enemy1_43
+    21300088: enemy1_44
+    21300090: enemy1_45
+    21300092: enemy1_46
+    21300094: enemy1_47
+    21300096: enemy1_48
+    21300098: enemy1_49
+    21300100: enemy1_50
+    21300102: enemy1_51
+    21300104: enemy1_52
+    21300106: enemy1_53
+    21300108: enemy1_54
+    21300110: enemy1_55
+    21300112: enemy1_56
+    21300114: enemy1_57
+    21300116: enemy1_58
+    21300118: enemy1_59
+    21300120: enemy1_60
+    21300122: enemy1_61
+    21300124: enemy1_62
+    21300126: enemy1_63
+    21300128: enemy1_64
+    21300130: enemy1_65
+    21300132: enemy1_66
+    21300134: enemy1_67
+    21300136: enemy1_68
+    21300138: enemy1_69
+    21300140: enemy1_70
+    21300142: enemy1_71
+    21300144: enemy1_72
+    21300146: enemy1_73
+    21300148: enemy1_74
+    21300150: enemy1_75
+    21300152: enemy1_76
+    21300154: enemy1_77
+    21300156: enemy1_78
+    21300158: enemy1_79
+    21300160: enemy1_80
+    21300162: enemy1_81
+    21300164: enemy1_82
+    21300166: enemy1_83
+    21300168: enemy1_84
+    21300170: enemy1_85
+    21300172: enemy1_86
+    21300174: enemy1_87
+    21300176: enemy1_88
+    21300178: enemy1_89
+    21300180: enemy1_90
+    21300182: enemy1_91
+    21300184: enemy1_92
+    21300186: enemy1_93
+    21300188: enemy1_94
+    21300190: enemy1_95
+    21300192: enemy1_96
+    21300194: enemy1_97
+    21300196: enemy1_98
+    21300198: enemy1_99
+    21300200: enemy1_100
+    21300202: enemy1_101
+    21300204: enemy1_102
+    21300206: enemy1_103
+    21300208: enemy1_104
+    21300210: enemy1_105
+    21300212: enemy1_106
+    21300214: enemy1_107
+    21300216: enemy1_108
+    21300218: enemy1_109
+    21300220: enemy1_110
+    21300222: enemy1_111
+    21300224: enemy1_112
+    21300226: enemy1_113
+    21300228: enemy1_114
+    21300230: enemy1_115
+    21300232: enemy1_116
+    21300234: enemy1_117
+    21300236: enemy1_118
+    21300238: enemy1_119
+    21300240: enemy1_120
+    21300242: enemy1_121
+    21300244: enemy1_122
+    21300246: enemy1_123
+    21300248: enemy1_124
+    21300250: enemy1_125
+    21300252: enemy1_126
+    21300254: enemy1_127
+    21300256: enemy1_128
+    21300258: enemy1_129
+    21300260: enemy1_130
+    21300262: enemy1_131
+    21300264: enemy1_132
+    21300266: enemy1_133
+    21300268: enemy1_134
+    21300270: enemy1_135
+    21300272: enemy1_136
+    21300274: enemy1_137
+    21300276: enemy1_138
+    21300278: enemy1_139
+    21300280: enemy1_140
+    21300282: enemy1_141
+    21300284: enemy1_142
+    21300286: enemy1_143
+    21300288: enemy1_144
+    21300290: enemy1_145
+    21300292: enemy1_146
+    21300294: enemy1_147
+    21300296: enemy1_148
+    21300298: enemy1_149
+    21300300: enemy1_150
+    21300302: enemy1_151
+    21300304: enemy1_152
+    21300306: enemy1_153
+    21300308: enemy1_154
+    21300310: enemy1_155
+    21300312: enemy1_156
+    21300314: enemy1_157
+    21300316: enemy1_158
+    21300318: enemy1_159
+    21300320: enemy1_160
+    21300322: enemy1_161
+    21300324: enemy1_162
+    21300326: enemy1_163
+    21300328: enemy1_164
+    21300330: enemy1_165
+    21300332: enemy1_166
+    21300334: enemy1_167
+    21300336: enemy1_168
+    21300338: enemy1_169
+    21300340: enemy1_170
+    21300342: enemy1_171
+    21300344: enemy1_172
+    21300346: enemy1_173
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Android
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: enemy1_0
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 759
+        width: 43
+        height: 38
+      alignment: 9
+      pivot: {x: 0.7, y: 0.34}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: enemy1_1
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 759
+        width: 43
+        height: 38
+      alignment: 9
+      pivot: {x: 0.7, y: 0.34}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: enemy1_2
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 759
+        width: 43
+        height: 38
+      alignment: 9
+      pivot: {x: 0.7, y: 0.34}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: enemy1_3
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 759
+        width: 43
+        height: 38
+      alignment: 9
+      pivot: {x: 0.7, y: 0.34}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: enemy1_4
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 708
+        width: 29
+        height: 42
+      alignment: 9
+      pivot: {x: 0.61628777, y: 0.3394107}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: enemy1_5
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 708
+        width: 24
+        height: 42
+      alignment: 9
+      pivot: {x: 0.5468375, y: 0.32870483}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: enemy1_6
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 653
+        width: 36
+        height: 43
+      alignment: 9
+      pivot: {x: 0.5, y: 0.24996594}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: enemy1_7
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 651
+        width: 32
+        height: 48
+      alignment: 9
+      pivot: {x: 0.5419979, y: 0.23867925}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: enemy1_8
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 650
+        width: 28
+        height: 49
+      alignment: 9
+      pivot: {x: 0.5479976, y: 0.21658511}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: enemy1_9
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 649
+        width: 25
+        height: 48
+      alignment: 9
+      pivot: {x: 0.37456664, y: 0.27601114}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: enemy1_10
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 649
+        width: 27
+        height: 46
+      alignment: 9
+      pivot: {x: 0.4004494, y: 0.32470438}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: enemy1_11
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 649
+        width: 33
+        height: 44
+      alignment: 9
+      pivot: {x: 0.4321252, y: 0.3167364}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: enemy1_12
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 652
+        width: 37
+        height: 41
+      alignment: 9
+      pivot: {x: 0.41524774, y: 0.2814748}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: enemy1_13
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 651
+        width: 36
+        height: 42
+      alignment: 9
+      pivot: {x: 0.4128935, y: 0.28667778}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: enemy1_14
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 649
+        width: 34
+        height: 40
+      alignment: 9
+      pivot: {x: 0.34189022, y: 0.27601165}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: enemy1_15
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 649
+        width: 29
+        height: 42
+      alignment: 9
+      pivot: {x: 0.36097243, y: 0.31867617}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: enemy1_16
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 649
+        width: 28
+        height: 43
+      alignment: 9
+      pivot: {x: 0.40400586, y: 0.3020559}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: enemy1_17
+      rect:
+        serializedVersion: 2
+        x: 521
+        y: 649
+        width: 34
+        height: 44
+      alignment: 9
+      pivot: {x: 0.46047255, y: 0.30655462}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: enemy1_18
+      rect:
+        serializedVersion: 2
+        x: 574
+        y: 648
+        width: 26
+        height: 53
+      alignment: 9
+      pivot: {x: 0.5, y: 0.26333216}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: enemy1_19
+      rect:
+        serializedVersion: 2
+        x: 603
+        y: 648
+        width: 42
+        height: 40
+      alignment: 9
+      pivot: {x: 0.6706572, y: 0.3432068}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: enemy1_20
+      rect:
+        serializedVersion: 2
+        x: 649
+        y: 648
+        width: 42
+        height: 39
+      alignment: 9
+      pivot: {x: 0.64932543, y: 0.3506736}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: enemy1_21
+      rect:
+        serializedVersion: 2
+        x: 695
+        y: 648
+        width: 42
+        height: 39
+      alignment: 9
+      pivot: {x: 0.6813238, y: 0.3621607}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: enemy1_22
+      rect:
+        serializedVersion: 2
+        x: 740
+        y: 648
+        width: 41
+        height: 40
+      alignment: 9
+      pivot: {x: 0.70759845, y: 0.35440674}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: enemy1_23
+      rect:
+        serializedVersion: 2
+        x: 784
+        y: 648
+        width: 44
+        height: 40
+      alignment: 9
+      pivot: {x: 0.7341697, y: 0.3208084}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: enemy1_24
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 578
+        width: 44
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: enemy1_25
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 578
+        width: 36
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: enemy1_26
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 578
+        width: 48
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: enemy1_27
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 578
+        width: 47
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: enemy1_28
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 581
+        width: 38
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: enemy1_29
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 581
+        width: 38
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: enemy1_30
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 581
+        width: 38
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: enemy1_31
+      rect:
+        serializedVersion: 2
+        x: 439
+        y: 583
+        width: 36
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: enemy1_32
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 520
+        width: 47
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: enemy1_33
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 520
+        width: 48
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: enemy1_34
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 520
+        width: 50
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: enemy1_35
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 520
+        width: 54
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: enemy1_36
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 520
+        width: 41
+        height: 42
+      alignment: 9
+      pivot: {x: 0.55009127, y: 0.34515527}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: enemy1_37
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 520
+        width: 42
+        height: 41
+      alignment: 9
+      pivot: {x: 0.5565789, y: 0.37284887}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: enemy1_38
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 520
+        width: 43
+        height: 41
+      alignment: 9
+      pivot: {x: 0.55393237, y: 0.3632202}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: enemy1_39
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 520
+        width: 46
+        height: 40
+      alignment: 9
+      pivot: {x: 0.58938867, y: 0.35684663}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: enemy1_40
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 451
+        width: 63
+        height: 53
+      alignment: 9
+      pivot: {x: 0.6444513, y: 0.275967}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: enemy1_41
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 451
+        width: 72
+        height: 52
+      alignment: 9
+      pivot: {x: 0.74950325, y: 0.27154717}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: enemy1_42
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 451
+        width: 56
+        height: 39
+      alignment: 9
+      pivot: {x: 0.66039497, y: 0.35141304}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: enemy1_43
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 451
+        width: 56
+        height: 39
+      alignment: 9
+      pivot: {x: 0.65004677, y: 0.38113013}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: enemy1_44
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 451
+        width: 56
+        height: 39
+      alignment: 9
+      pivot: {x: 0.67591697, y: 0.34398317}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: enemy1_45
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 451
+        width: 56
+        height: 39
+      alignment: 9
+      pivot: {x: 0.6707426, y: 0.35141304}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: enemy1_46
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 451
+        width: 50
+        height: 41
+      alignment: 9
+      pivot: {x: 0.6274878, y: 0.330393}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: enemy1_47
+      rect:
+        serializedVersion: 2
+        x: 553
+        y: 451
+        width: 34
+        height: 48
+      alignment: 9
+      pivot: {x: 0.6448723, y: 0.29476357}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: enemy1_48
+      rect:
+        serializedVersion: 2
+        x: 598
+        y: 451
+        width: 53
+        height: 40
+      alignment: 9
+      pivot: {x: 0.7569442, y: 0.34064025}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: enemy1_49
+      rect:
+        serializedVersion: 2
+        x: 656
+        y: 451
+        width: 51
+        height: 39
+      alignment: 9
+      pivot: {x: 0.7045264, y: 0.38113013}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: enemy1_50
+      rect:
+        serializedVersion: 2
+        x: 711
+        y: 451
+        width: 44
+        height: 39
+      alignment: 9
+      pivot: {x: 0.65145737, y: 0.37370104}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: enemy1_51
+      rect:
+        serializedVersion: 2
+        x: 761
+        y: 451
+        width: 36
+        height: 47
+      alignment: 9
+      pivot: {x: 0.62072587, y: 0.31505632}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: enemy1_52
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 389
+        width: 51
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: enemy1_53
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 389
+        width: 44
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: enemy1_54
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 389
+        width: 39
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: enemy1_55
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 389
+        width: 39
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: enemy1_56
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 389
+        width: 44
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: enemy1_57
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 389
+        width: 45
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: enemy1_58
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 389
+        width: 44
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: enemy1_59
+      rect:
+        serializedVersion: 2
+        x: 446
+        y: 389
+        width: 43
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: enemy1_60
+      rect:
+        serializedVersion: 2
+        x: 497
+        y: 389
+        width: 40
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: enemy1_61
+      rect:
+        serializedVersion: 2
+        x: 542
+        y: 389
+        width: 44
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: enemy1_62
+      rect:
+        serializedVersion: 2
+        x: 586
+        y: 389
+        width: 44
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: enemy1_63
+      rect:
+        serializedVersion: 2
+        x: 633
+        y: 389
+        width: 37
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: enemy1_64
+      rect:
+        serializedVersion: 2
+        x: 673
+        y: 389
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: enemy1_65
+      rect:
+        serializedVersion: 2
+        x: 710
+        y: 389
+        width: 44
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: enemy1_66
+      rect:
+        serializedVersion: 2
+        x: 756
+        y: 389
+        width: 34
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: enemy1_67
+      rect:
+        serializedVersion: 2
+        x: 795
+        y: 389
+        width: 33
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: enemy1_68
+      rect:
+        serializedVersion: 2
+        x: 834
+        y: 389
+        width: 33
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: enemy1_69
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 327
+        width: 31
+        height: 51
+      alignment: 9
+      pivot: {x: 0.38521823, y: 0.26385617}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: enemy1_70
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 327
+        width: 32
+        height: 44
+      alignment: 9
+      pivot: {x: 0.32037735, y: 0.36314324}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: enemy1_71
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 327
+        width: 32
+        height: 44
+      alignment: 9
+      pivot: {x: 0.31182337, y: 0.3569232}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: enemy1_72
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 327
+        width: 32
+        height: 44
+      alignment: 9
+      pivot: {x: 0.32893038, y: 0.35070246}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: enemy1_73
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 327
+        width: 43
+        height: 51
+      alignment: 9
+      pivot: {x: 0.4809038, y: 0.1887201}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: enemy1_74
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 327
+        width: 56
+        height: 49
+      alignment: 9
+      pivot: {x: 0.6564064, y: 0.19835865}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: enemy1_75
+      rect:
+        serializedVersion: 2
+        x: 379
+        y: 327
+        width: 52
+        height: 34
+      alignment: 9
+      pivot: {x: 0.6579103, y: 0.27459}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: enemy1_76
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 327
+        width: 52
+        height: 32
+      alignment: 9
+      pivot: {x: 0.6368555, y: 0.25194836}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: enemy1_77
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 327
+        width: 51
+        height: 32
+      alignment: 9
+      pivot: {x: 0.62343824, y: 0.26050186}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: enemy1_78
+      rect:
+        serializedVersion: 2
+        x: 555
+        y: 327
+        width: 50
+        height: 38
+      alignment: 9
+      pivot: {x: 0.67517453, y: 0.3055203}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: enemy1_79
+      rect:
+        serializedVersion: 2
+        x: 609
+        y: 327
+        width: 44
+        height: 42
+      alignment: 9
+      pivot: {x: 0.6617376, y: 0.3435916}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: enemy1_80
+      rect:
+        serializedVersion: 2
+        x: 658
+        y: 327
+        width: 42
+        height: 44
+      alignment: 9
+      pivot: {x: 0.63033766, y: 0.31337807}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: enemy1_81
+      rect:
+        serializedVersion: 2
+        x: 705
+        y: 327
+        width: 45
+        height: 41
+      alignment: 9
+      pivot: {x: 0.6824734, y: 0.33977824}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: enemy1_82
+      rect:
+        serializedVersion: 2
+        x: 754
+        y: 327
+        width: 43
+        height: 41
+      alignment: 9
+      pivot: {x: 0.65276957, y: 0.31307462}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: enemy1_83
+      rect:
+        serializedVersion: 2
+        x: 802
+        y: 327
+        width: 46
+        height: 39
+      alignment: 9
+      pivot: {x: 0.70825857, y: 0.32454348}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: enemy1_84
+      rect:
+        serializedVersion: 2
+        x: 855
+        y: 327
+        width: 48
+        height: 39
+      alignment: 9
+      pivot: {x: 0.7223905, y: 0.31752524}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: enemy1_85
+      rect:
+        serializedVersion: 2
+        x: 908
+        y: 327
+        width: 45
+        height: 39
+      alignment: 9
+      pivot: {x: 0.73721653, y: 0.34559828}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: enemy1_86
+      rect:
+        serializedVersion: 2
+        x: 964
+        y: 327
+        width: 39
+        height: 40
+      alignment: 9
+      pivot: {x: 0.6824732, y: 0.3357727}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: enemy1_87
+      rect:
+        serializedVersion: 2
+        x: 1008
+        y: 327
+        width: 36
+        height: 41
+      alignment: 9
+      pivot: {x: 0.69007707, y: 0.34645414}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: enemy1_88
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 268
+        width: 30
+        height: 38
+      alignment: 9
+      pivot: {x: 0.62741673, y: 0.37425956}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: enemy1_89
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 268
+        width: 26
+        height: 41
+      alignment: 9
+      pivot: {x: 0.53754014, y: 0.3554427}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: enemy1_90
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 268
+        width: 27
+        height: 42
+      alignment: 9
+      pivot: {x: 0.46297878, y: 0.32745215}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: enemy1_91
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 268
+        width: 28
+        height: 42
+      alignment: 9
+      pivot: {x: 0.49240112, y: 0.34803626}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: enemy1_92
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 268
+        width: 25
+        height: 42
+      alignment: 9
+      pivot: {x: 0.55956846, y: 0.36323255}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: enemy1_93
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 268
+        width: 29
+        height: 42
+      alignment: 9
+      pivot: {x: 0.5440158, y: 0.39362517}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: enemy1_94
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 268
+        width: 31
+        height: 42
+      alignment: 9
+      pivot: {x: 0.48627397, y: 0.4037563}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: enemy1_95
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 268
+        width: 37
+        height: 41
+      alignment: 9
+      pivot: {x: 0.4942495, y: 0.39622015}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: enemy1_96
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 268
+        width: 40
+        height: 37
+      alignment: 9
+      pivot: {x: 0.44681245, y: 0.48849982}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: enemy1_97
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 268
+        width: 43
+        height: 34
+      alignment: 9
+      pivot: {x: 0.5098948, y: 0.4749702}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: enemy1_98
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 268
+        width: 46
+        height: 28
+      alignment: 9
+      pivot: {x: 0.4953746, y: 0.5227944}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: enemy1_99
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 268
+        width: 46
+        height: 24
+      alignment: 9
+      pivot: {x: 0.50462407, y: 0.6152382}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: enemy1_100
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 268
+        width: 47
+        height: 19
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: enemy1_101
+      rect:
+        serializedVersion: 2
+        x: 635
+        y: 268
+        width: 46
+        height: 16
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: enemy1_102
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 215
+        width: 45
+        height: 38
+      alignment: 9
+      pivot: {x: 0.74981385, y: 0.3754393}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: enemy1_103
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 215
+        width: 50
+        height: 37
+      alignment: 9
+      pivot: {x: 0.74849916, y: 0.43070653}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: enemy1_104
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 215
+        width: 47
+        height: 38
+      alignment: 9
+      pivot: {x: 0.69722146, y: 0.3858193}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: enemy1_105
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 215
+        width: 46
+        height: 32
+      alignment: 9
+      pivot: {x: 0.602898, y: 0.38906336}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: enemy1_106
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 215
+        width: 46
+        height: 26
+      alignment: 9
+      pivot: {x: 0.4871375, y: 0.63653857}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: enemy1_107
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 215
+        width: 50
+        height: 25
+      alignment: 9
+      pivot: {x: 0.4960553, y: 0.6735565}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: enemy1_108
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 216
+        width: 43
+        height: 30
+      alignment: 9
+      pivot: {x: 0.46789408, y: 0.54601896}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: enemy1_109
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 215
+        width: 46
+        height: 25
+      alignment: 9
+      pivot: {x: 0.4228257, y: 0.5157788}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: enemy1_110
+      rect:
+        serializedVersion: 2
+        x: 518
+        y: 215
+        width: 46
+        height: 16
+      alignment: 9
+      pivot: {x: 0.47856206, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: enemy1_111
+      rect:
+        serializedVersion: 2
+        x: 569
+        y: 215
+        width: 47
+        height: 20
+      alignment: 9
+      pivot: {x: 0.47482234, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: enemy1_112
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 159
+        width: 30
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: enemy1_113
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 159
+        width: 39
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: enemy1_114
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 159
+        width: 46
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: enemy1_115
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 157
+        width: 51
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: enemy1_116
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 155
+        width: 59
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: enemy1_117
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 156
+        width: 59
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: enemy1_118
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 197
+        width: 8
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: enemy1_119
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 156
+        width: 63
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: enemy1_120
+      rect:
+        serializedVersion: 2
+        x: 471
+        y: 198
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: enemy1_121
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 154
+        width: 63
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: enemy1_122
+      rect:
+        serializedVersion: 2
+        x: 570
+        y: 154
+        width: 67
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: enemy1_127
+      rect:
+        serializedVersion: 2
+        x: 746
+        y: 153
+        width: 45
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: enemy1_128
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 187
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: enemy1_129
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 185
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: enemy1_130
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 188
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: enemy1_134
+      rect:
+        serializedVersion: 2
+        x: 703
+        y: 153
+        width: 38
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: enemy1_135
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 181
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: enemy1_136
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 178
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: enemy1_137
+      rect:
+        serializedVersion: 2
+        x: 483
+        y: 182
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: enemy1_140
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 170
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: enemy1_144
+      rect:
+        serializedVersion: 2
+        x: 638
+        y: 154
+        width: 55
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: enemy1_151
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 100
+        width: 25
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: enemy1_152
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 100
+        width: 28
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: enemy1_153
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 100
+        width: 30
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: enemy1_154
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 100
+        width: 33
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: enemy1_155
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 100
+        width: 36
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: enemy1_156
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 101
+        width: 39
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: enemy1_157
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 101
+        width: 43
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: enemy1_158
+      rect:
+        serializedVersion: 2
+        x: 369
+        y: 101
+        width: 36
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: enemy1_159
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 101
+        width: 38
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: enemy1_160
+      rect:
+        serializedVersion: 2
+        x: 453
+        y: 101
+        width: 36
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: enemy1_161
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 101
+        width: 33
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: enemy1_162
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 101
+        width: 29
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: enemy1_163
+      rect:
+        serializedVersion: 2
+        x: 570
+        y: 101
+        width: 23
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: enemy1_164
+      rect:
+        serializedVersion: 2
+        x: 599
+        y: 101
+        width: 43
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: enemy1_165
+      rect:
+        serializedVersion: 2
+        x: 647
+        y: 101
+        width: 36
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: enemy1_166
+      rect:
+        serializedVersion: 2
+        x: 692
+        y: 101
+        width: 41
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: enemy1_167
+      rect:
+        serializedVersion: 2
+        x: 741
+        y: 101
+        width: 38
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: enemy1_168
+      rect:
+        serializedVersion: 2
+        x: 782
+        y: 101
+        width: 40
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: enemy1_169
+      rect:
+        serializedVersion: 2
+        x: 826
+        y: 101
+        width: 41
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: enemy1_170
+      rect:
+        serializedVersion: 2
+        x: 871
+        y: 101
+        width: 41
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: enemy1_171
+      rect:
+        serializedVersion: 2
+        x: 921
+        y: 100
+        width: 34
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: enemy1_172
+      rect:
+        serializedVersion: 2
+        x: 961
+        y: 100
+        width: 32
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: enemy1_173
+      rect:
+        serializedVersion: 2
+        x: 994
+        y: 100
+        width: 33
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: enemy
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

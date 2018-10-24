@@ -1,0 +1,840 @@
+fileFormatVersion: 2
+guid: fbdca5d3b0b83ff47acc3372121626fc
+timeCreated: 1514366891
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Hero6_0
+    21300002: Hero6_1
+    21300004: Hero6_2
+    21300006: Hero6_3
+    21300008: Hero6_4
+    21300010: Hero6_5
+    21300012: Hero6_6
+    21300014: Hero6_7
+    21300016: Hero6_8
+    21300018: Hero6_9
+    21300020: Hero6_10
+    21300022: Hero6_11
+    21300024: Hero6_12
+    21300026: Hero6_13
+    21300028: Hero6_14
+    21300030: Hero6_15
+    21300032: Hero6_16
+    21300034: Hero6_17
+    21300036: Hero6_18
+    21300038: Hero6_19
+    21300040: Hero6_20
+    21300042: Hero6_21
+    21300044: Hero6_22
+    21300046: Hero6_23
+    21300048: Hero6_24
+    21300050: Hero6_25
+    21300052: Hero6_26
+    21300054: Hero6_27
+    21300056: Hero6_28
+    21300058: Hero6_29
+    21300060: Hero6_30
+    21300062: Hero6_31
+    21300064: Hero6_32
+    21300066: Hero6_33
+    21300068: Hero6_34
+    21300070: Hero6_35
+    21300072: Hero6_36
+    21300074: Hero6_37
+    21300076: Hero6_38
+    21300078: Hero6_39
+    21300080: Hero6_40
+    21300082: Hero6_41
+    21300084: Hero6_42
+    21300086: Hero6_43
+    21300088: Hero6_44
+    21300090: Hero6_45
+    21300092: Hero6_46
+    21300094: Hero6_47
+    21300096: Hero6_48
+    21300098: Hero6_49
+    21300100: Hero6_50
+    21300102: Hero6_51
+    21300104: Hero6_52
+    21300106: Hero6_53
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Android
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Hero6_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 411
+        width: 36
+        height: 27
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Hero6_1
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 409
+        width: 36
+        height: 27
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Hero6_2
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 409
+        width: 36
+        height: 27
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Hero6_3
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 409
+        width: 36
+        height: 27
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Hero6_4
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 409
+        width: 36
+        height: 27
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Hero6_5
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 409
+        width: 36
+        height: 27
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Hero6_6
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 409
+        width: 36
+        height: 27
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Hero6_7
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 409
+        width: 36
+        height: 27
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Hero6_8
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 409
+        width: 36
+        height: 27
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Hero6_9
+      rect:
+        serializedVersion: 2
+        x: 445
+        y: 409
+        width: 36
+        height: 27
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Hero6_10
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 353
+        width: 20
+        height: 49
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Hero6_11
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 352
+        width: 20
+        height: 48
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Hero6_12
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 352
+        width: 20
+        height: 47
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Hero6_13
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 352
+        width: 21
+        height: 46
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Hero6_14
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 352
+        width: 23
+        height: 45
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Hero6_15
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 352
+        width: 24
+        height: 44
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Hero6_16
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 352
+        width: 23
+        height: 45
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Hero6_17
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 352
+        width: 21
+        height: 46
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Hero6_18
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 352
+        width: 20
+        height: 47
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Hero6_19
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 352
+        width: 20
+        height: 48
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Hero6_20
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 305
+        width: 28
+        height: 29
+      alignment: 9
+      pivot: {x: 0.3, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Hero6_21
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 305
+        width: 31
+        height: 29
+      alignment: 9
+      pivot: {x: 0.3, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Hero6_22
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 304
+        width: 28
+        height: 30
+      alignment: 9
+      pivot: {x: 0.35, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Hero6_23
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 306
+        width: 28
+        height: 28
+      alignment: 9
+      pivot: {x: 0.3, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Hero6_24
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 306
+        width: 28
+        height: 28
+      alignment: 9
+      pivot: {x: 0.3, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Hero6_25
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 305
+        width: 26
+        height: 29
+      alignment: 9
+      pivot: {x: 0.3, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Hero6_26
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 273
+        width: 36
+        height: 27
+      alignment: 9
+      pivot: {x: 0.25, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Hero6_27
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 272
+        width: 37
+        height: 28
+      alignment: 9
+      pivot: {x: 0.25, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Hero6_28
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 271
+        width: 36
+        height: 29
+      alignment: 9
+      pivot: {x: 0.25, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Hero6_29
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 271
+        width: 37
+        height: 29
+      alignment: 9
+      pivot: {x: 0.25, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Hero6_30
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 221
+        width: 27
+        height: 38
+      alignment: 9
+      pivot: {x: 0.3, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Hero6_31
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 221
+        width: 26
+        height: 38
+      alignment: 9
+      pivot: {x: 0.31153846, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Hero6_32
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 223
+        width: 26
+        height: 38
+      alignment: 9
+      pivot: {x: 0.31153846, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Hero6_33
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 221
+        width: 26
+        height: 38
+      alignment: 9
+      pivot: {x: 0.31153846, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Hero6_34
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 182
+        width: 39
+        height: 24
+      alignment: 9
+      pivot: {x: 0.41025642, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Hero6_35
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 182
+        width: 39
+        height: 24
+      alignment: 9
+      pivot: {x: 0.41025642, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Hero6_36
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 182
+        width: 39
+        height: 24
+      alignment: 9
+      pivot: {x: 0.41025642, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Hero6_37
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 182
+        width: 39
+        height: 24
+      alignment: 9
+      pivot: {x: 0.41025642, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Hero6_38
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 148
+        width: 39
+        height: 24
+      alignment: 9
+      pivot: {x: 0.41025642, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Hero6_39
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 148
+        width: 39
+        height: 24
+      alignment: 9
+      pivot: {x: 0.41025642, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Hero6_40
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 148
+        width: 39
+        height: 24
+      alignment: 9
+      pivot: {x: 0.41025642, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Hero6_41
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 148
+        width: 39
+        height: 24
+      alignment: 9
+      pivot: {x: 0.41025642, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Hero6_42
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 148
+        width: 39
+        height: 24
+      alignment: 9
+      pivot: {x: 0.41025642, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Hero6_43
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 148
+        width: 39
+        height: 24
+      alignment: 9
+      pivot: {x: 0.41025642, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Hero6_44
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 148
+        width: 39
+        height: 24
+      alignment: 9
+      pivot: {x: 0.41025642, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Hero6_45
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 98
+        width: 39
+        height: 39
+      alignment: 9
+      pivot: {x: 0.20769231, y: 0.6}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Hero6_46
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 98
+        width: 38
+        height: 42
+      alignment: 9
+      pivot: {x: 0.21315789, y: 0.6}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Hero6_47
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 98
+        width: 40
+        height: 38
+      alignment: 9
+      pivot: {x: 0.2025, y: 0.6}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Hero6_48
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 49
+        width: 34
+        height: 36
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Hero6_49
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 49
+        width: 34
+        height: 36
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Hero6_50
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 49
+        width: 34
+        height: 36
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Hero6_51
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 49
+        width: 34
+        height: 36
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Hero6_52
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 0
+        width: 24
+        height: 28
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Hero6_53
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 0
+        width: 28
+        height: 38
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

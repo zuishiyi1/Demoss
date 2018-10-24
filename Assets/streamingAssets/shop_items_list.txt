@@ -1,0 +1,3 @@
+wepon_cold:1
+shield_invincible:10
+end

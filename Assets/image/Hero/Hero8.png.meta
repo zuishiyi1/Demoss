@@ -1,0 +1,868 @@
+fileFormatVersion: 2
+guid: 2d6f1118b2b85c546900f964913bcb74
+timeCreated: 1514862061
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Hero8_0
+    21300002: Hero8_1
+    21300004: Hero8_2
+    21300006: Hero8_3
+    21300008: Hero8_4
+    21300010: Hero8_5
+    21300012: Hero8_6
+    21300014: Hero8_7
+    21300016: Hero8_8
+    21300018: Hero8_9
+    21300020: Hero8_10
+    21300022: Hero8_11
+    21300024: Hero8_12
+    21300026: Hero8_13
+    21300028: Hero8_14
+    21300030: Hero8_15
+    21300032: Hero8_16
+    21300034: Hero8_17
+    21300036: Hero8_18
+    21300038: Hero8_19
+    21300040: Hero8_20
+    21300042: Hero8_21
+    21300044: Hero8_22
+    21300046: Hero8_23
+    21300048: Hero8_24
+    21300050: Hero8_25
+    21300052: Hero8_26
+    21300054: Hero8_27
+    21300056: Hero8_28
+    21300058: Hero8_29
+    21300060: Hero8_30
+    21300062: Hero8_31
+    21300064: Hero8_32
+    21300066: Hero8_33
+    21300068: Hero8_34
+    21300070: Hero8_35
+    21300072: Hero8_36
+    21300074: Hero8_37
+    21300076: Hero8_38
+    21300078: Hero8_39
+    21300080: Hero8_40
+    21300082: Hero8_41
+    21300084: Hero8_42
+    21300086: Hero8_43
+    21300088: Hero8_44
+    21300090: Hero8_45
+    21300092: Hero8_46
+    21300094: Hero8_47
+    21300096: Hero8_48
+    21300098: Hero8_49
+    21300100: Hero8_50
+    21300102: Hero8_51
+    21300104: Hero8_52
+    21300106: Hero8_53
+    21300108: Hero8_54
+    21300110: Hero8_55
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Android
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Hero8_0
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 338
+        width: 24
+        height: 25
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Hero8_1
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 334
+        width: 26
+        height: 29
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Hero8_2
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 335
+        width: 30
+        height: 28
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Hero8_3
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 336
+        width: 29
+        height: 27
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Hero8_4
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 337
+        width: 31
+        height: 26
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Hero8_5
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 331
+        width: 30
+        height: 36
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Hero8_6
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 331
+        width: 26
+        height: 34
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Hero8_7
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 340
+        width: 36
+        height: 23
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Hero8_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 297
+        width: 33
+        height: 26
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Hero8_9
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 297
+        width: 28
+        height: 26
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Hero8_10
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 297
+        width: 31
+        height: 26
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Hero8_11
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 297
+        width: 41
+        height: 28
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Hero8_12
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 297
+        width: 38
+        height: 26
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Hero8_13
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 297
+        width: 36
+        height: 26
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Hero8_14
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 263
+        width: 36
+        height: 27
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Hero8_15
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 262
+        width: 37
+        height: 28
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Hero8_16
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 262
+        width: 36
+        height: 28
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Hero8_17
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 220
+        width: 28
+        height: 36
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Hero8_18
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 219
+        width: 26
+        height: 36
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Hero8_19
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 220
+        width: 26
+        height: 36
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Hero8_20
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 181
+        width: 49
+        height: 27
+      alignment: 9
+      pivot: {x: 0.3265306, y: 0.9259259}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Hero8_21
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 181
+        width: 50
+        height: 26
+      alignment: 9
+      pivot: {x: 0.32, y: 0.96153843}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Hero8_22
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 181
+        width: 50
+        height: 26
+      alignment: 9
+      pivot: {x: 0.32, y: 0.96153843}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Hero8_23
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 195
+        width: 13
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Hero8_24
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 181
+        width: 35
+        height: 26
+      alignment: 9
+      pivot: {x: 0.45714286, y: 0.96153843}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Hero8_25
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 181
+        width: 35
+        height: 29
+      alignment: 9
+      pivot: {x: 0.45714286, y: 0.86206895}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Hero8_26
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 181
+        width: 36
+        height: 29
+      alignment: 9
+      pivot: {x: 0.44444445, y: 0.862069}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Hero8_27
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 181
+        width: 36
+        height: 27
+      alignment: 9
+      pivot: {x: 0.44444445, y: 0.9259259}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Hero8_28
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 181
+        width: 33
+        height: 27
+      alignment: 9
+      pivot: {x: 0.5, y: 0.9259259}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Hero8_29
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 181
+        width: 32
+        height: 27
+      alignment: 9
+      pivot: {x: 0.5, y: 0.9259259}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Hero8_30
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 181
+        width: 31
+        height: 28
+      alignment: 9
+      pivot: {x: 0.516129, y: 0.9259259}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Hero8_31
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 148
+        width: 29
+        height: 27
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Hero8_32
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 148
+        width: 29
+        height: 27
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Hero8_33
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 148
+        width: 29
+        height: 27
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Hero8_34
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 148
+        width: 29
+        height: 27
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Hero8_35
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 115
+        width: 42
+        height: 27
+      alignment: 9
+      pivot: {x: 0.3, y: 0.9259259}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Hero8_36
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 115
+        width: 39
+        height: 26
+      alignment: 9
+      pivot: {x: 0.3, y: 0.9615384}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Hero8_37
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 129
+        width: 23
+        height: 12
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Hero8_38
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 115
+        width: 41
+        height: 26
+      alignment: 9
+      pivot: {x: 0.3, y: 0.9615384}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Hero8_39
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 115
+        width: 39
+        height: 26
+      alignment: 9
+      pivot: {x: 0.3, y: 0.9615384}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Hero8_40
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 127
+        width: 23
+        height: 10
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Hero8_41
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 82
+        width: 42
+        height: 27
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Hero8_42
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 82
+        width: 42
+        height: 27
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Hero8_43
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 82
+        width: 42
+        height: 27
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Hero8_44
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 82
+        width: 42
+        height: 27
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Hero8_45
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 49
+        width: 41
+        height: 27
+      alignment: 9
+      pivot: {x: 0.3, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Hero8_46
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 49
+        width: 40
+        height: 27
+      alignment: 9
+      pivot: {x: 0.3, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Hero8_47
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 49
+        width: 39
+        height: 27
+      alignment: 9
+      pivot: {x: 0.3, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Hero8_48
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 49
+        width: 39
+        height: 28
+      alignment: 9
+      pivot: {x: 0.3, y: 0.96428573}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Hero8_49
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 49
+        width: 39
+        height: 31
+      alignment: 9
+      pivot: {x: 0.3, y: 0.87096775}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Hero8_50
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 49
+        width: 39
+        height: 31
+      alignment: 9
+      pivot: {x: 0.3, y: 0.87096775}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Hero8_51
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 49
+        width: 43
+        height: 31
+      alignment: 9
+      pivot: {x: 0.3, y: 0.87096775}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Hero8_52
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 48
+        width: 40
+        height: 33
+      alignment: 9
+      pivot: {x: 0.3, y: 0.8181818}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Hero8_53
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 0
+        width: 42
+        height: 27
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Hero8_54
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 0
+        width: 42
+        height: 27
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Hero8_55
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 0
+        width: 41
+        height: 27
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

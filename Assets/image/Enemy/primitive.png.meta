@@ -1,0 +1,3556 @@
+fileFormatVersion: 2
+guid: 36972cdc170f23c4c961d070288d0a6c
+timeCreated: 1509093495
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: primitive_0
+    21300002: primitive_1
+    21300004: primitive_2
+    21300006: primitive_3
+    21300008: primitive_4
+    21300010: primitive_5
+    21300012: primitive_6
+    21300014: primitive_7
+    21300016: primitive_8
+    21300018: primitive_9
+    21300020: primitive_10
+    21300022: primitive_11
+    21300024: primitive_12
+    21300026: primitive_13
+    21300028: primitive_14
+    21300030: primitive_15
+    21300032: primitive_16
+    21300034: primitive_17
+    21300036: primitive_18
+    21300038: primitive_19
+    21300040: primitive_20
+    21300042: primitive_21
+    21300044: primitive_22
+    21300046: primitive_23
+    21300048: primitive_24
+    21300050: primitive_25
+    21300052: primitive_26
+    21300054: primitive_27
+    21300056: primitive_28
+    21300058: primitive_29
+    21300060: primitive_30
+    21300062: primitive_31
+    21300064: primitive_32
+    21300066: primitive_33
+    21300068: primitive_34
+    21300070: primitive_35
+    21300072: primitive_36
+    21300074: primitive_37
+    21300076: primitive_38
+    21300078: primitive_39
+    21300080: primitive_40
+    21300082: primitive_41
+    21300084: primitive_42
+    21300086: primitive_43
+    21300088: primitive_44
+    21300090: primitive_45
+    21300092: primitive_46
+    21300094: primitive_47
+    21300096: primitive_48
+    21300098: primitive_49
+    21300100: primitive_50
+    21300102: primitive_51
+    21300104: primitive_52
+    21300106: primitive_53
+    21300108: primitive_54
+    21300110: primitive_55
+    21300112: primitive_56
+    21300114: primitive_57
+    21300116: primitive_58
+    21300118: primitive_59
+    21300120: primitive_60
+    21300122: primitive_61
+    21300124: primitive_62
+    21300126: primitive_63
+    21300128: primitive_64
+    21300130: primitive_65
+    21300132: primitive_66
+    21300134: primitive_67
+    21300136: primitive_68
+    21300138: primitive_69
+    21300140: primitive_70
+    21300142: primitive_71
+    21300144: primitive_72
+    21300146: primitive_73
+    21300148: primitive_74
+    21300150: primitive_75
+    21300152: primitive_76
+    21300154: primitive_77
+    21300156: primitive_78
+    21300158: primitive_79
+    21300160: primitive_80
+    21300162: primitive_81
+    21300164: primitive_82
+    21300166: primitive_83
+    21300168: primitive_84
+    21300170: primitive_85
+    21300172: primitive_86
+    21300174: primitive_87
+    21300176: primitive_88
+    21300178: primitive_89
+    21300180: primitive_90
+    21300182: primitive_91
+    21300184: attack_axe2
+    21300186: attack_axe8
+    21300188: attack_axe1
+    21300190: attack_axe3
+    21300192: attack_axe4
+    21300194: attack_axe5
+    21300196: attack_axe6
+    21300198: attack_axe7
+    21300200: attack_axe9
+    21300202: attack_axe10
+    21300204: attack_axe11
+    21300206: attack_axe12
+    21300208: attack_axe13
+    21300210: attack_axe14
+    21300212: primitive_106
+    21300214: primitive_107
+    21300216: primitive_108
+    21300218: primitive_109
+    21300220: primitive_110
+    21300222: primitive_111
+    21300224: primitive_112
+    21300226: primitive_113
+    21300228: primitive_114
+    21300230: primitive_115
+    21300232: primitive_116
+    21300234: primitive_117
+    21300236: primitive_118
+    21300238: primitive_119
+    21300240: primitive_120
+    21300242: primitive_121
+    21300244: primitive_122
+    21300246: primitive_123
+    21300248: primitive_124
+    21300250: primitive_125
+    21300252: primitive_126
+    21300254: primitive_127
+    21300256: primitive_128
+    21300258: primitive_129
+    21300260: primitive_130
+    21300262: primitive_131
+    21300264: primitive_132
+    21300266: primitive_133
+    21300268: primitive_134
+    21300270: primitive_135
+    21300272: primitive_136
+    21300274: primitive_137
+    21300276: primitive_138
+    21300278: primitive_139
+    21300280: primitive_140
+    21300282: primitive_141
+    21300284: primitive_142
+    21300286: primitive_143
+    21300288: primitive_144
+    21300290: primitive_145
+    21300292: primitive_146
+    21300294: primitive_147
+    21300296: primitive_148
+    21300298: primitive_149
+    21300300: primitive_150
+    21300302: primitive_151
+    21300304: primitive_152
+    21300306: primitive_153
+    21300308: primitive_154
+    21300310: primitive_155
+    21300312: primitive_156
+    21300314: primitive_157
+    21300316: primitive_158
+    21300318: primitive_159
+    21300320: primitive_160
+    21300322: primitive_161
+    21300324: primitive_162
+    21300326: primitive_163
+    21300328: primitive_164
+    21300330: primitive_165
+    21300332: primitive_166
+    21300334: primitive_167
+    21300336: primitive_168
+    21300338: primitive_169
+    21300340: primitive_170
+    21300342: primitive_171
+    21300344: primitive_172
+    21300346: primitive_173
+    21300348: primitive_174
+    21300350: primitive_175
+    21300352: primitive_176
+    21300354: primitive_177
+    21300356: primitive_178
+    21300358: primitive_179
+    21300360: primitive_182
+    21300362: primitive_183
+    21300364: primitive_184
+    21300366: primitive_187
+    21300368: primitive_193
+    21300370: primitive_194
+    21300372: primitive_195
+    21300374: primitive_196
+    21300376: primitive_197
+    21300378: primitive_198
+    21300380: primitive_199
+    21300382: primitive_200
+    21300384: primitive_201
+    21300386: primitive_202
+    21300388: primitive_204
+    21300390: primitive_205
+    21300392: primitive_206
+    21300394: primitive_207
+    21300396: primitive_208
+    21300398: primitive_209
+    21300400: primitive_210
+    21300402: primitive_211
+    21300404: primitive_213
+    21300406: primitive_214
+    21300408: primitive_215
+    21300410: primitive_216
+    21300412: primitive_222
+    21300414: primitive_223
+    21300416: primitive_224
+    21300418: primitive_225
+    21300420: primitive_226
+    21300422: primitive_227
+    21300424: primitive_228
+    21300426: primitive_229
+    21300428: primitive_230
+    21300430: primitive_231
+    21300432: primitive_232
+    21300434: primitive_233
+    21300436: primitive_234
+    21300438: primitive_235
+    21300440: primitive_236
+    21300442: primitive_237
+    21300444: primitive_238
+    21300446: primitive_239
+    21300448: primitive_240
+    21300450: primitive_241
+    21300452: primitive_242
+    21300454: primitive_243
+    21300456: primitive_244
+    21300458: primitive_245
+    21300460: primitive_246
+    21300462: primitive_247
+    21300464: primitive_248
+    21300466: primitive_249
+    21300468: primitive_250
+    21300470: primitive_251
+    21300472: primitive_252
+    21300474: primitive_253
+    21300476: primitive_254
+    21300478: primitive_255
+    21300480: primitive_256
+    21300482: primitive_257
+    21300484: primitive_258
+    21300486: primitive_259
+    21300488: primitive_260
+    21300490: primitive_261
+    21300492: primitive_262
+    21300494: primitive_263
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Android
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: primitive_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1461
+        width: 32
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: primitive_1
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 1461
+        width: 32
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: primitive_2
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 1461
+        width: 32
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: primitive_3
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 1461
+        width: 32
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: primitive_4
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 1461
+        width: 28
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: primitive_5
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 1461
+        width: 28
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: primitive_6
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 1461
+        width: 28
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: primitive_7
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 1461
+        width: 28
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: primitive_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1409
+        width: 33
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: primitive_9
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 1406
+        width: 30
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: primitive_10
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 1406
+        width: 28
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: primitive_11
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 1406
+        width: 23
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: primitive_12
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 1406
+        width: 23
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: primitive_13
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 1406
+        width: 26
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: primitive_14
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 1409
+        width: 33
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: primitive_15
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 1406
+        width: 30
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: primitive_16
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 1406
+        width: 28
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: primitive_17
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 1406
+        width: 23
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: primitive_18
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 1406
+        width: 24
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: primitive_19
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 1406
+        width: 29
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: primitive_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1356
+        width: 29
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: primitive_21
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 1356
+        width: 29
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: primitive_22
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 1356
+        width: 29
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: primitive_23
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 1356
+        width: 29
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: primitive_24
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 1356
+        width: 33
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: primitive_25
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 1356
+        width: 34
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: primitive_26
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 1356
+        width: 34
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: primitive_27
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 1356
+        width: 34
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: primitive_28
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1303
+        width: 33
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: primitive_29
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 1300
+        width: 31
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: primitive_30
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 1300
+        width: 31
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: primitive_31
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 1300
+        width: 27
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: primitive_32
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 1300
+        width: 27
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: primitive_33
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 1300
+        width: 29
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: primitive_34
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 1303
+        width: 33
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: primitive_35
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 1300
+        width: 31
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: primitive_36
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 1300
+        width: 31
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: primitive_37
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 1300
+        width: 27
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: primitive_38
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 1300
+        width: 27
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: primitive_39
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 1300
+        width: 31
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: primitive_40
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1247
+        width: 35
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: primitive_41
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 1244
+        width: 35
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: primitive_42
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 1244
+        width: 35
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: primitive_43
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 1244
+        width: 31
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: primitive_44
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 1244
+        width: 31
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: primitive_45
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 1244
+        width: 33
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: primitive_46
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 1247
+        width: 37
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: primitive_47
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 1244
+        width: 35
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: primitive_48
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 1244
+        width: 35
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: primitive_49
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 1244
+        width: 31
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: primitive_50
+      rect:
+        serializedVersion: 2
+        x: 369
+        y: 1244
+        width: 31
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: primitive_51
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 1244
+        width: 35
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: primitive_52
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1183
+        width: 31
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: primitive_53
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 1183
+        width: 35
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: primitive_54
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 1183
+        width: 36
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: primitive_55
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 1183
+        width: 29
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: primitive_56
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 1183
+        width: 29
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: primitive_57
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 1183
+        width: 28
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: primitive_58
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 1183
+        width: 30
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: primitive_59
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 1180
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: primitive_60
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 1178
+        width: 35
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: primitive_61
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 1179
+        width: 36
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: primitive_62
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 1177
+        width: 29
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: primitive_63
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 1183
+        width: 32
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: primitive_64
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 1183
+        width: 28
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: primitive_65
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 1183
+        width: 37
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: primitive_66
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1129
+        width: 43
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: primitive_67
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 1130
+        width: 43
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: primitive_68
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 1129
+        width: 43
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: primitive_69
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 1129
+        width: 40
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: primitive_70
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 1129
+        width: 38
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: primitive_71
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 1129
+        width: 34
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: primitive_72
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 1129
+        width: 43
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: primitive_73
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 1130
+        width: 43
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: primitive_74
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 1129
+        width: 43
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: primitive_75
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 1124
+        width: 40
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: primitive_76
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 1128
+        width: 38
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: primitive_77
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 1128
+        width: 34
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: primitive_78
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1060
+        width: 28
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: primitive_79
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 1060
+        width: 28
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: primitive_80
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 1060
+        width: 32
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: primitive_81
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 1060
+        width: 34
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: primitive_82
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 1060
+        width: 37
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: primitive_83
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 1060
+        width: 41
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: primitive_84
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 1060
+        width: 36
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: primitive_85
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 1060
+        width: 41
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: primitive_86
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 1060
+        width: 41
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: primitive_87
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 1060
+        width: 42
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: primitive_88
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 1060
+        width: 42
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: primitive_89
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 1060
+        width: 41
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: primitive_90
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 1060
+        width: 45
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: primitive_91
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1008
+        width: 31
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: attack_axe2
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 954
+        width: 29
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: attack_axe8
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 954
+        width: 63
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: attack_axe1
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 954
+        width: 39
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: attack_axe3
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 954
+        width: 42
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: attack_axe4
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 954
+        width: 47
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: attack_axe5
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 954
+        width: 47
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: attack_axe6
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 954
+        width: 52
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: attack_axe7
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 954
+        width: 56
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: attack_axe9
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 954
+        width: 53
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: attack_axe10
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 952
+        width: 53
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: attack_axe11
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 889
+        width: 52
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: attack_axe12
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 891
+        width: 53
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: attack_axe13
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 894
+        width: 57
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: attack_axe14
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 894
+        width: 32
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: primitive_106
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 822
+        width: 35
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: primitive_107
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 822
+        width: 34
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: primitive_108
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 822
+        width: 48
+        height: 69
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: primitive_109
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 822
+        width: 50
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: primitive_110
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 822
+        width: 47
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: primitive_111
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 822
+        width: 53
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: primitive_112
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 822
+        width: 36
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: primitive_113
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 822
+        width: 41
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: primitive_114
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 822
+        width: 41
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: primitive_115
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 822
+        width: 42
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: primitive_116
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 822
+        width: 42
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: primitive_117
+      rect:
+        serializedVersion: 2
+        x: 502
+        y: 822
+        width: 41
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: primitive_118
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 772
+        width: 44
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: primitive_119
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 718
+        width: 32
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: primitive_120
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 718
+        width: 34
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: primitive_121
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 718
+        width: 37
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: primitive_122
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 718
+        width: 41
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: primitive_123
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 718
+        width: 61
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: primitive_124
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 718
+        width: 58
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: primitive_125
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 718
+        width: 58
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: primitive_126
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 718
+        width: 62
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: primitive_127
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 661
+        width: 40
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: primitive_128
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 661
+        width: 32
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: primitive_129
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 661
+        width: 35
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: primitive_130
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 661
+        width: 36
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: primitive_131
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 661
+        width: 36
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: primitive_132
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 661
+        width: 36
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: primitive_133
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 607
+        width: 41
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: primitive_134
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 607
+        width: 29
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: primitive_135
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 607
+        width: 44
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: primitive_136
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 607
+        width: 45
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: primitive_137
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 607
+        width: 45
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: primitive_138
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 607
+        width: 45
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: primitive_139
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 553
+        width: 41
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: primitive_140
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 553
+        width: 36
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: primitive_141
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 553
+        width: 46
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: primitive_142
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 553
+        width: 46
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: primitive_143
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 553
+        width: 47
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: primitive_144
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 553
+        width: 47
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: primitive_145
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 497
+        width: 41
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: primitive_146
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 497
+        width: 30
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: primitive_147
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 497
+        width: 40
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: primitive_148
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 497
+        width: 41
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: primitive_149
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 497
+        width: 41
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: primitive_150
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 497
+        width: 41
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: primitive_151
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 442
+        width: 50
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: primitive_152
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 442
+        width: 58
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: primitive_153
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 442
+        width: 55
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: primitive_154
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 442
+        width: 43
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: primitive_155
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 442
+        width: 41
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: primitive_156
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 442
+        width: 35
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: primitive_157
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 442
+        width: 40
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: primitive_158
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 442
+        width: 41
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: primitive_159
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 442
+        width: 43
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: primitive_160
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 442
+        width: 43
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: primitive_161
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 393
+        width: 34
+        height: 43
+      alignment: 9
+      pivot: {x: 0.5, y: 0.56}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: primitive_162
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 397
+        width: 36
+        height: 41
+      alignment: 9
+      pivot: {x: 0.5, y: 0.58}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: primitive_163
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 396
+        width: 33
+        height: 43
+      alignment: 9
+      pivot: {x: 0.5, y: 0.56}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: primitive_164
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 393
+        width: 32
+        height: 44
+      alignment: 9
+      pivot: {x: 0.5, y: 0.54}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: primitive_165
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 389
+        width: 35
+        height: 45
+      alignment: 9
+      pivot: {x: 0.5, y: 0.55}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: primitive_166
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 385
+        width: 39
+        height: 44
+      alignment: 9
+      pivot: {x: 0.5, y: 0.54}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: primitive_167
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 383
+        width: 45
+        height: 37
+      alignment: 9
+      pivot: {x: 0.5, y: 0.65}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: primitive_168
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 382
+        width: 50
+        height: 31
+      alignment: 9
+      pivot: {x: 0.5, y: 0.77}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: primitive_169
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 382
+        width: 43
+        height: 31
+      alignment: 9
+      pivot: {x: 0.5, y: 0.77}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: primitive_170
+      rect:
+        serializedVersion: 2
+        x: 374
+        y: 382
+        width: 46
+        height: 31
+      alignment: 9
+      pivot: {x: 0.5, y: 0.77}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: primitive_171
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 382
+        width: 48
+        height: 31
+      alignment: 9
+      pivot: {x: 0.5, y: 0.77}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: primitive_172
+      rect:
+        serializedVersion: 2
+        x: 474
+        y: 382
+        width: 50
+        height: 31
+      alignment: 9
+      pivot: {x: 0.5, y: 0.77}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: primitive_173
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 362
+        width: 51
+        height: 31
+      alignment: 9
+      pivot: {x: 0.5, y: 0.77}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: primitive_174
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 362
+        width: 51
+        height: 31
+      alignment: 9
+      pivot: {x: 0.5, y: 0.77}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: primitive_175
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 309
+        width: 40
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: primitive_176
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 311
+        width: 45
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: primitive_177
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 312
+        width: 48
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: primitive_178
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 312
+        width: 46
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: primitive_179
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 311
+        width: 48
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: primitive_182
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 311
+        width: 62
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: primitive_183
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 311
+        width: 52
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: primitive_184
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 311
+        width: 47
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: primitive_187
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 311
+        width: 56
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: primitive_193
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 242
+        width: 45
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: primitive_194
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 242
+        width: 45
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: primitive_195
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 298
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: primitive_196
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 242
+        width: 45
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: primitive_197
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 301
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: primitive_198
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 242
+        width: 45
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: primitive_199
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 242
+        width: 46
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: primitive_200
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 242
+        width: 45
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: primitive_201
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 242
+        width: 45
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: primitive_202
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 242
+        width: 45
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: primitive_204
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 175
+        width: 45
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: primitive_205
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 234
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: primitive_206
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 175
+        width: 43
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: primitive_207
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 175
+        width: 43
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: primitive_208
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 175
+        width: 43
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: primitive_209
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 175
+        width: 44
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: primitive_210
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 175
+        width: 44
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: primitive_211
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 175
+        width: 44
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: primitive_213
+      rect:
+        serializedVersion: 2
+        x: 373
+        y: 175
+        width: 44
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: primitive_214
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 175
+        width: 52
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: primitive_215
+      rect:
+        serializedVersion: 2
+        x: 475
+        y: 175
+        width: 40
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: primitive_216
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 175
+        width: 43
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: primitive_222
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 117
+        width: 38
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: primitive_223
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 117
+        width: 34
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: primitive_224
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 91
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: primitive_225
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 91
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: primitive_226
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 92
+        width: 21
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: primitive_227
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 91
+        width: 22
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: primitive_228
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 91
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: primitive_229
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 91
+        width: 21
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: primitive_230
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 90
+        width: 18
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: primitive_231
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 89
+        width: 20
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: primitive_232
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 90
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: primitive_233
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 90
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: primitive_234
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 91
+        width: 21
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: primitive_235
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 90
+        width: 22
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: primitive_236
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 90
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: primitive_237
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 90
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: primitive_238
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 90
+        width: 18
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: primitive_239
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 90
+        width: 21
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: primitive_240
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 64
+        width: 18
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: primitive_241
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 64
+        width: 17
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: primitive_242
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 65
+        width: 18
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: primitive_243
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 68
+        width: 24
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: primitive_244
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 71
+        width: 21
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: primitive_245
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 70
+        width: 25
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: primitive_246
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 68
+        width: 24
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: primitive_247
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 66
+        width: 23
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: primitive_248
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 65
+        width: 17
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: primitive_249
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 65
+        width: 18
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: primitive_250
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 66
+        width: 24
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: primitive_251
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 69
+        width: 36
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: primitive_252
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 72
+        width: 38
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: primitive_253
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 70
+        width: 35
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: primitive_254
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 67
+        width: 36
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: primitive_255
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 65
+        width: 29
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: primitive_256
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 5
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: primitive_257
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 2
+        width: 27
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: primitive_258
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 9
+        width: 45
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: primitive_259
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 18
+        width: 58
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: primitive_260
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 19
+        width: 58
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: primitive_261
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 15
+        width: 56
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: primitive_262
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 8
+        width: 43
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: primitive_263
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 1
+        width: 21
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

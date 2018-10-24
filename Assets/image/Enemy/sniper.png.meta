@@ -1,0 +1,1120 @@
+fileFormatVersion: 2
+guid: 798a3dd2defa4d34e8447541ad98a685
+timeCreated: 1509441635
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: sniper_0
+    21300002: sniper_1
+    21300004: sniper_2
+    21300006: sniper_3
+    21300008: sniper_4
+    21300010: sniper_5
+    21300012: sniper_6
+    21300014: sniper_7
+    21300016: sniper_8
+    21300018: sniper_9
+    21300020: sniper_10
+    21300022: sniper_11
+    21300024: sniper_12
+    21300026: sniper_13
+    21300028: sniper_14
+    21300030: sniper_15
+    21300032: sniper_16
+    21300034: sniper_17
+    21300036: sniper_18
+    21300038: sniper_19
+    21300040: sniper_20
+    21300042: sniper_21
+    21300044: sniper_22
+    21300046: sniper_23
+    21300048: sniper_24
+    21300050: sniper_25
+    21300052: sniper_26
+    21300054: sniper_27
+    21300056: sniper_28
+    21300058: sniper_29
+    21300060: sniper_30
+    21300062: sniper_31
+    21300064: sniper_32
+    21300066: sniper_33
+    21300068: sniper_34
+    21300070: sniper_35
+    21300072: sniper_36
+    21300074: sniper_37
+    21300076: sniper_38
+    21300078: sniper_39
+    21300080: sniper_40
+    21300082: sniper_41
+    21300084: sniper_42
+    21300086: sniper_43
+    21300088: sniper_44
+    21300090: sniper_46
+    21300092: sniper_48
+    21300094: sniper_49
+    21300096: sniper_50
+    21300098: sniper_51
+    21300100: sniper_52
+    21300102: sniper_53
+    21300104: sniper_54
+    21300106: sniper_55
+    21300108: sniper_56
+    21300110: sniper_57
+    21300112: sniper_58
+    21300114: sniper_59
+    21300116: sniper_60
+    21300118: sniper_61
+    21300120: sniper_62
+    21300122: sniper_63
+    21300124: sniper_64
+    21300126: sniper_65
+    21300128: sniper_66
+    21300130: sniper_67
+    21300132: sniper_68
+    21300134: sniper_69
+    21300136: sniper_70
+    21300138: sniper_71
+    21300140: sniper_72
+    21300142: sniper_73
+    21300144: sniper_74
+    21300146: sniper_75
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Android
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: sniper_0
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 780
+        width: 41
+        height: 40
+      alignment: 9
+      pivot: {x: 0.8, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sniper_1
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 780
+        width: 41
+        height: 40
+      alignment: 9
+      pivot: {x: 0.8, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sniper_2
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 780
+        width: 41
+        height: 40
+      alignment: 9
+      pivot: {x: 0.8, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sniper_3
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 780
+        width: 41
+        height: 37
+      alignment: 9
+      pivot: {x: 0.8, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sniper_4
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 780
+        width: 41
+        height: 40
+      alignment: 9
+      pivot: {x: 0.8, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sniper_5
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 780
+        width: 41
+        height: 40
+      alignment: 9
+      pivot: {x: 0.8, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sniper_6
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 780
+        width: 41
+        height: 40
+      alignment: 9
+      pivot: {x: 0.8, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sniper_7
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 780
+        width: 41
+        height: 40
+      alignment: 9
+      pivot: {x: 0.8, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sniper_8
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 740
+        width: 40
+        height: 40
+      alignment: 9
+      pivot: {x: 0.8, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sniper_9
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 740
+        width: 39
+        height: 40
+      alignment: 9
+      pivot: {x: 0.8, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sniper_10
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 740
+        width: 39
+        height: 40
+      alignment: 9
+      pivot: {x: 0.8, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sniper_11
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 740
+        width: 33
+        height: 40
+      alignment: 9
+      pivot: {x: 0.8, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sniper_12
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 740
+        width: 25
+        height: 40
+      alignment: 9
+      pivot: {x: 0.8, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sniper_13
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 740
+        width: 33
+        height: 40
+      alignment: 9
+      pivot: {x: 0.2, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sniper_14
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 740
+        width: 39
+        height: 40
+      alignment: 9
+      pivot: {x: 0.2, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sniper_15
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 740
+        width: 39
+        height: 40
+      alignment: 9
+      pivot: {x: 0.2, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sniper_16
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 740
+        width: 40
+        height: 40
+      alignment: 9
+      pivot: {x: 0.2, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sniper_17
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 687
+        width: 40
+        height: 40
+      alignment: 9
+      pivot: {x: 0.8, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sniper_18
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 688
+        width: 42
+        height: 40
+      alignment: 9
+      pivot: {x: 0.8, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sniper_19
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 688
+        width: 42
+        height: 40
+      alignment: 9
+      pivot: {x: 0.8, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sniper_20
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 688
+        width: 42
+        height: 40
+      alignment: 9
+      pivot: {x: 0.8, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sniper_21
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 688
+        width: 42
+        height: 40
+      alignment: 9
+      pivot: {x: 0.8, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sniper_22
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 688
+        width: 42
+        height: 41
+      alignment: 9
+      pivot: {x: 0.8, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sniper_23
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 688
+        width: 42
+        height: 41
+      alignment: 9
+      pivot: {x: 0.8, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sniper_24
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 688
+        width: 42
+        height: 42
+      alignment: 9
+      pivot: {x: 0.8, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sniper_25
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 688
+        width: 42
+        height: 42
+      alignment: 9
+      pivot: {x: 0.8, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sniper_26
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 688
+        width: 42
+        height: 43
+      alignment: 9
+      pivot: {x: 0.8, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sniper_27
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 688
+        width: 42
+        height: 43
+      alignment: 9
+      pivot: {x: 0.8, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sniper_28
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 619
+        width: 51
+        height: 40
+      alignment: 9
+      pivot: {x: 0.8, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sniper_29
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 629
+        width: 62
+        height: 24
+      alignment: 9
+      pivot: {x: 0.8, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sniper_30
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 625
+        width: 65
+        height: 24
+      alignment: 9
+      pivot: {x: 0.8, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sniper_31
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 617
+        width: 66
+        height: 26
+      alignment: 9
+      pivot: {x: 0.8, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sniper_32
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 612
+        width: 63
+        height: 21
+      alignment: 9
+      pivot: {x: 0.8, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sniper_33
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 612
+        width: 66
+        height: 18
+      alignment: 9
+      pivot: {x: 0.8, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sniper_34
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 612
+        width: 66
+        height: 19
+      alignment: 9
+      pivot: {x: 0.8, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sniper_35
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 612
+        width: 64
+        height: 19
+      alignment: 9
+      pivot: {x: 0.8, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sniper_36
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 582
+        width: 63
+        height: 19
+      alignment: 9
+      pivot: {x: 0.8, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sniper_37
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 582
+        width: 57
+        height: 20
+      alignment: 9
+      pivot: {x: 0.8, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sniper_38
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 582
+        width: 56
+        height: 27
+      alignment: 9
+      pivot: {x: 0.8, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sniper_39
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 582
+        width: 56
+        height: 27
+      alignment: 9
+      pivot: {x: 0.8, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sniper_40
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 582
+        width: 59
+        height: 24
+      alignment: 9
+      pivot: {x: 0.8, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sniper_41
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 582
+        width: 63
+        height: 19
+      alignment: 9
+      pivot: {x: 0.8, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sniper_42
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 582
+        width: 65
+        height: 19
+      alignment: 9
+      pivot: {x: 0.8, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sniper_43
+      rect:
+        serializedVersion: 2
+        x: 443
+        y: 582
+        width: 62
+        height: 20
+      alignment: 9
+      pivot: {x: 0.8, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sniper_44
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 555
+        width: 54
+        height: 20
+      alignment: 9
+      pivot: {x: 0.8, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sniper_46
+      rect:
+        serializedVersion: 2
+        x: 379
+        y: 555
+        width: 50
+        height: 24
+      alignment: 9
+      pivot: {x: 0.8, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sniper_48
+      rect:
+        serializedVersion: 2
+        x: 485
+        y: 555
+        width: 50
+        height: 20
+      alignment: 9
+      pivot: {x: 0.8, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sniper_49
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 555
+        width: 51
+        height: 19
+      alignment: 9
+      pivot: {x: 0.8, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sniper_50
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 555
+        width: 50
+        height: 19
+      alignment: 9
+      pivot: {x: 0.8, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sniper_51
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 555
+        width: 50
+        height: 19
+      alignment: 9
+      pivot: {x: 0.8, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sniper_52
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 555
+        width: 50
+        height: 19
+      alignment: 9
+      pivot: {x: 0.8, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sniper_53
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 555
+        width: 50
+        height: 19
+      alignment: 9
+      pivot: {x: 0.8, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sniper_54
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 555
+        width: 50
+        height: 23
+      alignment: 9
+      pivot: {x: 0.8, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sniper_55
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 555
+        width: 50
+        height: 23
+      alignment: 9
+      pivot: {x: 0.8, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sniper_56
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 505
+        width: 62
+        height: 20
+      alignment: 9
+      pivot: {x: 0.8, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sniper_57
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 505
+        width: 61
+        height: 29
+      alignment: 9
+      pivot: {x: 0.8, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sniper_58
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 505
+        width: 61
+        height: 28
+      alignment: 9
+      pivot: {x: 0.8, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sniper_59
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 505
+        width: 62
+        height: 28
+      alignment: 9
+      pivot: {x: 0.8, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sniper_60
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 505
+        width: 63
+        height: 28
+      alignment: 9
+      pivot: {x: 0.8, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sniper_61
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 505
+        width: 63
+        height: 19
+      alignment: 9
+      pivot: {x: 0.8, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sniper_62
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 505
+        width: 66
+        height: 14
+      alignment: 9
+      pivot: {x: 0.8, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sniper_63
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 505
+        width: 65
+        height: 14
+      alignment: 9
+      pivot: {x: 0.8, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sniper_64
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 430
+        width: 40
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sniper_65
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 430
+        width: 38
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sniper_66
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 430
+        width: 38
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sniper_67
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 430
+        width: 39
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sniper_68
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 430
+        width: 38
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sniper_69
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 430
+        width: 38
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sniper_70
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 430
+        width: 32
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sniper_71
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 430
+        width: 33
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sniper_72
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 430
+        width: 35
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sniper_73
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 430
+        width: 46
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sniper_74
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 430
+        width: 46
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sniper_75
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 430
+        width: 46
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

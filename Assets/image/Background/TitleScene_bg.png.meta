@@ -1,0 +1,885 @@
+fileFormatVersion: 2
+guid: 7912522ba3c0fb44cac97cd652ddddaa
+timeCreated: 1491575881
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: "Metal Slug 4-\u9417\u89C4\u6DF3\u9365_-2_\u9416\u8FA9\u7CB0\u7F03\u61712gei_com_0"
+    21300002: "Metal Slug 4-\u9417\u89C4\u6DF3\u9365_-2_\u9416\u8FA9\u7CB0\u7F03\u61712gei_com_1"
+    21300004: "Metal Slug 4-\u9417\u89C4\u6DF3\u9365_-2_\u9416\u8FA9\u7CB0\u7F03\u61712gei_com_2"
+    21300006: "Metal Slug 4-\u9417\u89C4\u6DF3\u9365_-2_\u9416\u8FA9\u7CB0\u7F03\u61712gei_com_3"
+    21300008: "Metal Slug 4-\u9417\u89C4\u6DF3\u9365_-2_\u9416\u8FA9\u7CB0\u7F03\u61712gei_com_4"
+    21300010: "Metal Slug 4-\u9417\u89C4\u6DF3\u9365_-2_\u9416\u8FA9\u7CB0\u7F03\u61712gei_com_5"
+    21300012: "Metal Slug 4-\u9417\u89C4\u6DF3\u9365_-2_\u9416\u8FA9\u7CB0\u7F03\u61712gei_com_6"
+    21300014: "Metal Slug 4-\u9417\u89C4\u6DF3\u9365_-2_\u9416\u8FA9\u7CB0\u7F03\u61712gei_com_7"
+    21300016: "Metal Slug 4-\u9417\u89C4\u6DF3\u9365_-2_\u9416\u8FA9\u7CB0\u7F03\u61712gei_com_8"
+    21300018: "Metal Slug 4-\u9417\u89C4\u6DF3\u9365_-2_\u9416\u8FA9\u7CB0\u7F03\u61712gei_com_9"
+    21300020: "Metal Slug 4-\u9417\u89C4\u6DF3\u9365_-2_\u9416\u8FA9\u7CB0\u7F03\u61712gei_com_10"
+    21300022: "Metal Slug 4-\u9417\u89C4\u6DF3\u9365_-2_\u9416\u8FA9\u7CB0\u7F03\u61712gei_com_11"
+    21300024: "Metal Slug 4-\u9417\u89C4\u6DF3\u9365_-2_\u9416\u8FA9\u7CB0\u7F03\u61712gei_com_12"
+    21300026: "Metal Slug 4-\u9417\u89C4\u6DF3\u9365_-2_\u9416\u8FA9\u7CB0\u7F03\u61712gei_com_13"
+    21300028: "Metal Slug 4-\u9417\u89C4\u6DF3\u9365_-2_\u9416\u8FA9\u7CB0\u7F03\u61712gei_com_14"
+    21300030: "Metal Slug 4-\u9417\u89C4\u6DF3\u9365_-2_\u9416\u8FA9\u7CB0\u7F03\u61712gei_com_15"
+    21300032: "Metal Slug 4-\u9417\u89C4\u6DF3\u9365_-2_\u9416\u8FA9\u7CB0\u7F03\u61712gei_com_16"
+    21300034: "Metal Slug 4-\u9417\u89C4\u6DF3\u9365_-2_\u9416\u8FA9\u7CB0\u7F03\u61712gei_com_17"
+    21300036: "Metal Slug 4-\u9417\u89C4\u6DF3\u9365_-2_\u9416\u8FA9\u7CB0\u7F03\u61712gei_com_18"
+    21300038: "Metal Slug 4-\u9417\u89C4\u6DF3\u9365_-2_\u9416\u8FA9\u7CB0\u7F03\u61712gei_com_19"
+    21300040: "Metal Slug 4-\u9417\u89C4\u6DF3\u9365_-2_\u9416\u8FA9\u7CB0\u7F03\u61712gei_com_20"
+    21300042: "Metal Slug 4-\u9417\u89C4\u6DF3\u9365_-2_\u9416\u8FA9\u7CB0\u7F03\u61712gei_com_21"
+    21300044: "Metal Slug 4-\u9417\u89C4\u6DF3\u9365_-2_\u9416\u8FA9\u7CB0\u7F03\u61712gei_com_22"
+    21300046: "Metal Slug 4-\u9417\u89C4\u6DF3\u9365_-2_\u9416\u8FA9\u7CB0\u7F03\u61712gei_com_23"
+    21300048: "Metal Slug 4-\u9417\u89C4\u6DF3\u9365_-2_\u9416\u8FA9\u7CB0\u7F03\u61712gei_com_24"
+    21300050: "Metal Slug 4-\u9417\u89C4\u6DF3\u9365_-2_\u9416\u8FA9\u7CB0\u7F03\u61712gei_com_25"
+    21300052: "Metal Slug 4-\u9417\u89C4\u6DF3\u9365_-2_\u9416\u8FA9\u7CB0\u7F03\u61712gei_com_26"
+    21300054: "Metal Slug 4-\u9417\u89C4\u6DF3\u9365_-2_\u9416\u8FA9\u7CB0\u7F03\u61712gei_com_27"
+    21300056: "Metal Slug 4-\u9417\u89C4\u6DF3\u9365_-2_\u9416\u8FA9\u7CB0\u7F03\u61712gei_com_28"
+    21300058: "Metal Slug 4-\u9417\u89C4\u6DF3\u9365_-2_\u9416\u8FA9\u7CB0\u7F03\u61712gei_com_29"
+    21300060: "Metal Slug 4-\u9417\u89C4\u6DF3\u9365_-2_\u9416\u8FA9\u7CB0\u7F03\u61712gei_com_30"
+    21300062: "Metal Slug 4-\u9417\u89C4\u6DF3\u9365_-2_\u9416\u8FA9\u7CB0\u7F03\u61712gei_com_31"
+    21300064: "Metal Slug 4-\u9417\u89C4\u6DF3\u9365_-2_\u9416\u8FA9\u7CB0\u7F03\u61712gei_com_32"
+    21300066: "Metal Slug 4-\u9417\u89C4\u6DF3\u9365_-2_\u9416\u8FA9\u7CB0\u7F03\u61712gei_com_33"
+    21300068: "Metal Slug 4-\u9417\u89C4\u6DF3\u9365_-2_\u9416\u8FA9\u7CB0\u7F03\u61712gei_com_34"
+    21300070: "Metal Slug 4-\u9417\u89C4\u6DF3\u9365_-2_\u9416\u8FA9\u7CB0\u7F03\u61712gei_com_35"
+    21300072: "Metal Slug 4-\u9417\u89C4\u6DF3\u9365_-2_\u9416\u8FA9\u7CB0\u7F03\u61712gei_com_36"
+    21300074: "Metal Slug 4-\u9417\u89C4\u6DF3\u9365_-2_\u9416\u8FA9\u7CB0\u7F03\u61712gei_com_37"
+    21300076: "Metal Slug 4-\u9417\u89C4\u6DF3\u9365_-2_\u9416\u8FA9\u7CB0\u7F03\u61712gei_com_38"
+    21300078: "Metal Slug 4-\u9417\u89C4\u6DF3\u9365_-2_\u9416\u8FA9\u7CB0\u7F03\u61712gei_com_39"
+    21300080: "Metal Slug 4-\u9417\u89C4\u6DF3\u9365_-2_\u9416\u8FA9\u7CB0\u7F03\u61712gei_com_40"
+    21300082: "Metal Slug 4-\u9417\u89C4\u6DF3\u9365_-2_\u9416\u8FA9\u7CB0\u7F03\u61712gei_com_41"
+    21300084: "Metal Slug 4-\u9417\u89C4\u6DF3\u9365_-2_\u9416\u8FA9\u7CB0\u7F03\u61712gei_com_42"
+    21300086: "Metal Slug 4-\u9417\u89C4\u6DF3\u9365_-2_\u9416\u8FA9\u7CB0\u7F03\u61712gei_com_43"
+    21300088: "Metal Slug 4-\u9417\u89C4\u6DF3\u9365_-2_\u9416\u8FA9\u7CB0\u7F03\u61712gei_com_44"
+    21300090: "Metal Slug 4-\u9417\u89C4\u6DF3\u9365_-2_\u9416\u8FA9\u7CB0\u7F03\u61712gei_com_45"
+    21300092: "Metal Slug 4-\u9417\u89C4\u6DF3\u9365_-2_\u9416\u8FA9\u7CB0\u7F03\u61712gei_com_46"
+    21300094: "Metal Slug 4-\u9417\u89C4\u6DF3\u9365_-2_\u9416\u8FA9\u7CB0\u7F03\u61712gei_com_47"
+    21300096: "Metal Slug 4-\u9417\u89C4\u6DF3\u9365_-2_\u9416\u8FA9\u7CB0\u7F03\u61712gei_com_48"
+    21300098: "Metal Slug 4-\u9417\u89C4\u6DF3\u9365_-2_\u9416\u8FA9\u7CB0\u7F03\u61712gei_com_49"
+    21300100: "Metal Slug 4-\u9417\u89C4\u6DF3\u9365_-2_\u9416\u8FA9\u7CB0\u7F03\u61712gei_com_50"
+    21300102: "Metal Slug 4-\u9417\u89C4\u6DF3\u9365_-2_\u9416\u8FA9\u7CB0\u7F03\u61712gei_com_51"
+    21300104: "Metal Slug 4-\u9417\u89C4\u6DF3\u9365_-2_\u9416\u8FA9\u7CB0\u7F03\u61712gei_com_52"
+    21300106: "Metal Slug 4-\u9417\u89C4\u6DF3\u9365_-2_\u9416\u8FA9\u7CB0\u7F03\u61712gei_com_53"
+    21300108: "Metal Slug 4-\u9417\u89C4\u6DF3\u9365_-2_\u9416\u8FA9\u7CB0\u7F03\u61712gei_com_54"
+    21300110: "Metal Slug 4-\u9417\u89C4\u6DF3\u9365_-2_\u9416\u8FA9\u7CB0\u7F03\u61712gei_com_55"
+    21300112: "Metal Slug 4-\u9417\u89C4\u6DF3\u9365_-2_\u9416\u8FA9\u7CB0\u7F03\u61712gei_com_56"
+    21300114: "Metal Slug 4-\u9417\u89C4\u6DF3\u9365_-2_\u9416\u8FA9\u7CB0\u7F03\u61712gei_com_57"
+    21300116: "Metal Slug 4-\u9417\u89C4\u6DF3\u9365_-2_\u9416\u8FA9\u7CB0\u7F03\u61712gei_com_58"
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: "Metal Slug 4-\u9417\u89C4\u6DF3\u9365_-2_\u9416\u8FA9\u7CB0\u7F03\u61712gei_com_0"
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 416
+        width: 992
+        height: 224
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "Metal Slug 4-\u9417\u89C4\u6DF3\u9365_-2_\u9416\u8FA9\u7CB0\u7F03\u61712gei_com_1"
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 176
+        width: 992
+        height: 224
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "Metal Slug 4-\u9417\u89C4\u6DF3\u9365_-2_\u9416\u8FA9\u7CB0\u7F03\u61712gei_com_2"
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 104
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "Metal Slug 4-\u9417\u89C4\u6DF3\u9365_-2_\u9416\u8FA9\u7CB0\u7F03\u61712gei_com_3"
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 104
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "Metal Slug 4-\u9417\u89C4\u6DF3\u9365_-2_\u9416\u8FA9\u7CB0\u7F03\u61712gei_com_4"
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 104
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "Metal Slug 4-\u9417\u89C4\u6DF3\u9365_-2_\u9416\u8FA9\u7CB0\u7F03\u61712gei_com_5"
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 104
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "Metal Slug 4-\u9417\u89C4\u6DF3\u9365_-2_\u9416\u8FA9\u7CB0\u7F03\u61712gei_com_6"
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 104
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "Metal Slug 4-\u9417\u89C4\u6DF3\u9365_-2_\u9416\u8FA9\u7CB0\u7F03\u61712gei_com_7"
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 104
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "Metal Slug 4-\u9417\u89C4\u6DF3\u9365_-2_\u9416\u8FA9\u7CB0\u7F03\u61712gei_com_8"
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 104
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "Metal Slug 4-\u9417\u89C4\u6DF3\u9365_-2_\u9416\u8FA9\u7CB0\u7F03\u61712gei_com_9"
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 104
+        width: 4
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "Metal Slug 4-\u9417\u89C4\u6DF3\u9365_-2_\u9416\u8FA9\u7CB0\u7F03\u61712gei_com_10"
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 104
+        width: 4
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "Metal Slug 4-\u9417\u89C4\u6DF3\u9365_-2_\u9416\u8FA9\u7CB0\u7F03\u61712gei_com_11"
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 104
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "Metal Slug 4-\u9417\u89C4\u6DF3\u9365_-2_\u9416\u8FA9\u7CB0\u7F03\u61712gei_com_12"
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 104
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "Metal Slug 4-\u9417\u89C4\u6DF3\u9365_-2_\u9416\u8FA9\u7CB0\u7F03\u61712gei_com_13"
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 104
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "Metal Slug 4-\u9417\u89C4\u6DF3\u9365_-2_\u9416\u8FA9\u7CB0\u7F03\u61712gei_com_14"
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 104
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "Metal Slug 4-\u9417\u89C4\u6DF3\u9365_-2_\u9416\u8FA9\u7CB0\u7F03\u61712gei_com_15"
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 104
+        width: 4
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "Metal Slug 4-\u9417\u89C4\u6DF3\u9365_-2_\u9416\u8FA9\u7CB0\u7F03\u61712gei_com_16"
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 104
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "Metal Slug 4-\u9417\u89C4\u6DF3\u9365_-2_\u9416\u8FA9\u7CB0\u7F03\u61712gei_com_17"
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 104
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "Metal Slug 4-\u9417\u89C4\u6DF3\u9365_-2_\u9416\u8FA9\u7CB0\u7F03\u61712gei_com_18"
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 104
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "Metal Slug 4-\u9417\u89C4\u6DF3\u9365_-2_\u9416\u8FA9\u7CB0\u7F03\u61712gei_com_19"
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 101
+        width: 6
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "Metal Slug 4-\u9417\u89C4\u6DF3\u9365_-2_\u9416\u8FA9\u7CB0\u7F03\u61712gei_com_20"
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 104
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "Metal Slug 4-\u9417\u89C4\u6DF3\u9365_-2_\u9416\u8FA9\u7CB0\u7F03\u61712gei_com_21"
+      rect:
+        serializedVersion: 2
+        x: 498
+        y: 9
+        width: 90
+        height: 151
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "Metal Slug 4-\u9417\u89C4\u6DF3\u9365_-2_\u9416\u8FA9\u7CB0\u7F03\u61712gei_com_22"
+      rect:
+        serializedVersion: 2
+        x: 637
+        y: 28
+        width: 80
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "Metal Slug 4-\u9417\u89C4\u6DF3\u9365_-2_\u9416\u8FA9\u7CB0\u7F03\u61712gei_com_23"
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 20
+        width: 93
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "Metal Slug 4-\u9417\u89C4\u6DF3\u9365_-2_\u9416\u8FA9\u7CB0\u7F03\u61712gei_com_24"
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 87
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "Metal Slug 4-\u9417\u89C4\u6DF3\u9365_-2_\u9416\u8FA9\u7CB0\u7F03\u61712gei_com_25"
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 84
+        width: 6
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "Metal Slug 4-\u9417\u89C4\u6DF3\u9365_-2_\u9416\u8FA9\u7CB0\u7F03\u61712gei_com_26"
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 84
+        width: 6
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "Metal Slug 4-\u9417\u89C4\u6DF3\u9365_-2_\u9416\u8FA9\u7CB0\u7F03\u61712gei_com_27"
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 87
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "Metal Slug 4-\u9417\u89C4\u6DF3\u9365_-2_\u9416\u8FA9\u7CB0\u7F03\u61712gei_com_28"
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 87
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "Metal Slug 4-\u9417\u89C4\u6DF3\u9365_-2_\u9416\u8FA9\u7CB0\u7F03\u61712gei_com_29"
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 87
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "Metal Slug 4-\u9417\u89C4\u6DF3\u9365_-2_\u9416\u8FA9\u7CB0\u7F03\u61712gei_com_30"
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 84
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "Metal Slug 4-\u9417\u89C4\u6DF3\u9365_-2_\u9416\u8FA9\u7CB0\u7F03\u61712gei_com_31"
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 87
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "Metal Slug 4-\u9417\u89C4\u6DF3\u9365_-2_\u9416\u8FA9\u7CB0\u7F03\u61712gei_com_32"
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 87
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "Metal Slug 4-\u9417\u89C4\u6DF3\u9365_-2_\u9416\u8FA9\u7CB0\u7F03\u61712gei_com_33"
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 87
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "Metal Slug 4-\u9417\u89C4\u6DF3\u9365_-2_\u9416\u8FA9\u7CB0\u7F03\u61712gei_com_34"
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 87
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "Metal Slug 4-\u9417\u89C4\u6DF3\u9365_-2_\u9416\u8FA9\u7CB0\u7F03\u61712gei_com_35"
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 87
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "Metal Slug 4-\u9417\u89C4\u6DF3\u9365_-2_\u9416\u8FA9\u7CB0\u7F03\u61712gei_com_36"
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 87
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "Metal Slug 4-\u9417\u89C4\u6DF3\u9365_-2_\u9416\u8FA9\u7CB0\u7F03\u61712gei_com_37"
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 87
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "Metal Slug 4-\u9417\u89C4\u6DF3\u9365_-2_\u9416\u8FA9\u7CB0\u7F03\u61712gei_com_38"
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 87
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "Metal Slug 4-\u9417\u89C4\u6DF3\u9365_-2_\u9416\u8FA9\u7CB0\u7F03\u61712gei_com_39"
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 87
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "Metal Slug 4-\u9417\u89C4\u6DF3\u9365_-2_\u9416\u8FA9\u7CB0\u7F03\u61712gei_com_40"
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 87
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "Metal Slug 4-\u9417\u89C4\u6DF3\u9365_-2_\u9416\u8FA9\u7CB0\u7F03\u61712gei_com_41"
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 87
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "Metal Slug 4-\u9417\u89C4\u6DF3\u9365_-2_\u9416\u8FA9\u7CB0\u7F03\u61712gei_com_42"
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 87
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "Metal Slug 4-\u9417\u89C4\u6DF3\u9365_-2_\u9416\u8FA9\u7CB0\u7F03\u61712gei_com_43"
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 87
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "Metal Slug 4-\u9417\u89C4\u6DF3\u9365_-2_\u9416\u8FA9\u7CB0\u7F03\u61712gei_com_44"
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 87
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "Metal Slug 4-\u9417\u89C4\u6DF3\u9365_-2_\u9416\u8FA9\u7CB0\u7F03\u61712gei_com_45"
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 87
+        width: 4
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "Metal Slug 4-\u9417\u89C4\u6DF3\u9365_-2_\u9416\u8FA9\u7CB0\u7F03\u61712gei_com_46"
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 71
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "Metal Slug 4-\u9417\u89C4\u6DF3\u9365_-2_\u9416\u8FA9\u7CB0\u7F03\u61712gei_com_47"
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 71
+        width: 4
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "Metal Slug 4-\u9417\u89C4\u6DF3\u9365_-2_\u9416\u8FA9\u7CB0\u7F03\u61712gei_com_48"
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 71
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "Metal Slug 4-\u9417\u89C4\u6DF3\u9365_-2_\u9416\u8FA9\u7CB0\u7F03\u61712gei_com_49"
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 71
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "Metal Slug 4-\u9417\u89C4\u6DF3\u9365_-2_\u9416\u8FA9\u7CB0\u7F03\u61712gei_com_50"
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 71
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "Metal Slug 4-\u9417\u89C4\u6DF3\u9365_-2_\u9416\u8FA9\u7CB0\u7F03\u61712gei_com_51"
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 71
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "Metal Slug 4-\u9417\u89C4\u6DF3\u9365_-2_\u9416\u8FA9\u7CB0\u7F03\u61712gei_com_52"
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 71
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "Metal Slug 4-\u9417\u89C4\u6DF3\u9365_-2_\u9416\u8FA9\u7CB0\u7F03\u61712gei_com_53"
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 71
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "Metal Slug 4-\u9417\u89C4\u6DF3\u9365_-2_\u9416\u8FA9\u7CB0\u7F03\u61712gei_com_54"
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 68
+        width: 6
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "Metal Slug 4-\u9417\u89C4\u6DF3\u9365_-2_\u9416\u8FA9\u7CB0\u7F03\u61712gei_com_55"
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 71
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "Metal Slug 4-\u9417\u89C4\u6DF3\u9365_-2_\u9416\u8FA9\u7CB0\u7F03\u61712gei_com_56"
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 71
+        width: 4
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "Metal Slug 4-\u9417\u89C4\u6DF3\u9365_-2_\u9416\u8FA9\u7CB0\u7F03\u61712gei_com_57"
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 71
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "Metal Slug 4-\u9417\u89C4\u6DF3\u9365_-2_\u9416\u8FA9\u7CB0\u7F03\u61712gei_com_58"
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 71
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,1582 @@
+fileFormatVersion: 2
+guid: 3501a5ef997f36c40ba7310a2d203235
+timeCreated: 1513739032
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: zombiefriends_0
+    21300002: zombiefriends_1
+    21300004: zombiefriends_2
+    21300006: zombiefriends_3
+    21300008: zombiefriends_4
+    21300010: zombiefriends_5
+    21300012: zombiefriends_6
+    21300014: zombiefriends_7
+    21300016: zombiefriends_8
+    21300018: zombiefriends_9
+    21300020: zombiefriends_10
+    21300022: zombiefriends_11
+    21300024: zombiefriends_12
+    21300026: zombiefriends_13
+    21300028: zombiefriends_14
+    21300030: zombiefriends_15
+    21300032: zombiefriends_16
+    21300034: zombiefriends_17
+    21300036: zombiefriends_18
+    21300038: zombiefriends_19
+    21300040: zombiefriends_20
+    21300042: zombiefriends_21
+    21300044: zombiefriends_22
+    21300046: zombiefriends_23
+    21300048: zombiefriends_24
+    21300050: zombiefriends_25
+    21300052: zombiefriends_26
+    21300054: zombiefriends_27
+    21300056: zombiefriends_28
+    21300058: zombiefriends_29
+    21300060: zombiefriends_30
+    21300062: zombiefriends_31
+    21300064: zombiefriends_32
+    21300066: zombiefriends_33
+    21300068: zombiefriends_34
+    21300070: zombiefriends_35
+    21300072: zombiefriends_36
+    21300074: zombiefriends_37
+    21300076: zombiefriends_38
+    21300078: zombiefriends_39
+    21300080: zombiefriends_40
+    21300082: zombiefriends_41
+    21300084: zombiefriends_42
+    21300086: zombiefriends_43
+    21300088: zombiefriends_44
+    21300090: zombiefriends_45
+    21300092: zombiefriends_46
+    21300094: zombiefriends_47
+    21300096: zombiefriends_48
+    21300098: zombiefriends_49
+    21300100: zombiefriends_50
+    21300102: zombiefriends_51
+    21300104: zombiefriends_52
+    21300106: zombiefriends_53
+    21300108: zombiefriends_54
+    21300110: zombiefriends_55
+    21300112: zombiefriends_56
+    21300114: zombiefriends_57
+    21300116: zombiefriends_58
+    21300118: zombiefriends_59
+    21300120: zombiefriends_60
+    21300122: zombiefriends_61
+    21300124: zombiefriends_62
+    21300126: zombiefriends_63
+    21300128: zombiefriends_64
+    21300130: zombiefriends_65
+    21300132: zombiefriends_66
+    21300134: zombiefriends_67
+    21300136: zombiefriends_68
+    21300138: zombiefriends_69
+    21300140: zombiefriends_70
+    21300142: zombiefriends_71
+    21300144: zombiefriends_72
+    21300146: zombiefriends_73
+    21300148: zombiefriends_74
+    21300150: zombiefriends_75
+    21300152: zombiefriends_76
+    21300154: zombiefriends_77
+    21300156: zombiefriends_78
+    21300158: zombiefriends_79
+    21300160: zombiefriends_80
+    21300162: zombiefriends_81
+    21300164: zombiefriends_82
+    21300166: zombiefriends_83
+    21300168: zombiefriends_84
+    21300170: zombiefriends_85
+    21300172: zombiefriends_86
+    21300174: zombiefriends_87
+    21300176: zombiefriends_88
+    21300178: zombiefriends_89
+    21300180: zombiefriends_90
+    21300182: zombiefriends_91
+    21300184: zombiefriends_92
+    21300186: zombiefriends_93
+    21300188: zombiefriends_94
+    21300190: zombiefriends_95
+    21300192: zombiefriends_96
+    21300194: zombiefriends_97
+    21300196: zombiefriends_98
+    21300198: zombiefriends_99
+    21300200: zombiefriends_100
+    21300202: zombiefriends_101
+    21300204: zombiefriends_102
+    21300206: zombiefriends_103
+    21300208: zombiefriends_104
+    21300210: zombiefriends_105
+    21300212: zombiefriends_106
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Android
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: zombiefriends_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 484
+        width: 31
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zombiefriends_1
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 484
+        width: 31
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zombiefriends_2
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 484
+        width: 31
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zombiefriends_3
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 484
+        width: 31
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zombiefriends_4
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 484
+        width: 31
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zombiefriends_5
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 484
+        width: 31
+        height: 41
+      alignment: 9
+      pivot: {x: 0.455, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zombiefriends_6
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 484
+        width: 31
+        height: 41
+      alignment: 9
+      pivot: {x: 0.455, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zombiefriends_7
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 419
+        width: 33
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zombiefriends_8
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 418
+        width: 35
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zombiefriends_9
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 418
+        width: 36
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zombiefriends_10
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 418
+        width: 36
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zombiefriends_11
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 418
+        width: 37
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zombiefriends_12
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 418
+        width: 36
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zombiefriends_13
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 418
+        width: 34
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zombiefriends_14
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 418
+        width: 34
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zombiefriends_15
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 418
+        width: 32
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zombiefriends_16
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 418
+        width: 32
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zombiefriends_17
+      rect:
+        serializedVersion: 2
+        x: 498
+        y: 417
+        width: 32
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zombiefriends_18
+      rect:
+        serializedVersion: 2
+        x: 548
+        y: 417
+        width: 35
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zombiefriends_19
+      rect:
+        serializedVersion: 2
+        x: 597
+        y: 416
+        width: 36
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zombiefriends_20
+      rect:
+        serializedVersion: 2
+        x: 647
+        y: 416
+        width: 35
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zombiefriends_21
+      rect:
+        serializedVersion: 2
+        x: 697
+        y: 416
+        width: 33
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zombiefriends_22
+      rect:
+        serializedVersion: 2
+        x: 747
+        y: 416
+        width: 31
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zombiefriends_23
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 342
+        width: 30
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zombiefriends_24
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 342
+        width: 31
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zombiefriends_25
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 342
+        width: 28
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zombiefriends_26
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 342
+        width: 27
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zombiefriends_27
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 342
+        width: 27
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zombiefriends_28
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 342
+        width: 25
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zombiefriends_29
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 342
+        width: 27
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zombiefriends_30
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 342
+        width: 29
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zombiefriends_31
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 342
+        width: 30
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zombiefriends_32
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 259
+        width: 30
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zombiefriends_33
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 259
+        width: 30
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zombiefriends_34
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 259
+        width: 30
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zombiefriends_35
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 258
+        width: 30
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zombiefriends_36
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 257
+        width: 30
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zombiefriends_37
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 258
+        width: 30
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zombiefriends_38
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 258
+        width: 31
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zombiefriends_39
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 258
+        width: 32
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zombiefriends_40
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 182
+        width: 34
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zombiefriends_41
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 182
+        width: 25
+        height: 48
+      alignment: 9
+      pivot: {x: 0.5, y: 0.41666666}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zombiefriends_42
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 182
+        width: 28
+        height: 45
+      alignment: 9
+      pivot: {x: 0.5, y: 0.44444445}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zombiefriends_43
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 182
+        width: 37
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zombiefriends_44
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 182
+        width: 38
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zombiefriends_45
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 182
+        width: 36
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zombiefriends_46
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 182
+        width: 31
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zombiefriends_47
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 182
+        width: 32
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zombiefriends_48
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 182
+        width: 31
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zombiefriends_49
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 182
+        width: 30
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zombiefriends_50
+      rect:
+        serializedVersion: 2
+        x: 471
+        y: 182
+        width: 30
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zombiefriends_51
+      rect:
+        serializedVersion: 2
+        x: 521
+        y: 182
+        width: 30
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zombiefriends_52
+      rect:
+        serializedVersion: 2
+        x: 572
+        y: 182
+        width: 30
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zombiefriends_53
+      rect:
+        serializedVersion: 2
+        x: 623
+        y: 182
+        width: 30
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zombiefriends_54
+      rect:
+        serializedVersion: 2
+        x: 673
+        y: 182
+        width: 30
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zombiefriends_55
+      rect:
+        serializedVersion: 2
+        x: 722
+        y: 182
+        width: 31
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zombiefriends_56
+      rect:
+        serializedVersion: 2
+        x: 765
+        y: 182
+        width: 38
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zombiefriends_57
+      rect:
+        serializedVersion: 2
+        x: 813
+        y: 182
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zombiefriends_58
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 182
+        width: 41
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zombiefriends_59
+      rect:
+        serializedVersion: 2
+        x: 923
+        y: 182
+        width: 31
+        height: 45
+      alignment: 9
+      pivot: {x: 0.5, y: 0.44444445}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zombiefriends_60
+      rect:
+        serializedVersion: 2
+        x: 967
+        y: 182
+        width: 36
+        height: 43
+      alignment: 9
+      pivot: {x: 0.5, y: 0.4651163}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zombiefriends_61
+      rect:
+        serializedVersion: 2
+        x: 1017
+        y: 182
+        width: 41
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zombiefriends_62
+      rect:
+        serializedVersion: 2
+        x: 1068
+        y: 182
+        width: 41
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zombiefriends_63
+      rect:
+        serializedVersion: 2
+        x: 1118
+        y: 182
+        width: 42
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zombiefriends_64
+      rect:
+        serializedVersion: 2
+        x: 1175
+        y: 182
+        width: 28
+        height: 45
+      alignment: 9
+      pivot: {x: 0.5, y: 0.44444445}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zombiefriends_65
+      rect:
+        serializedVersion: 2
+        x: 1215
+        y: 182
+        width: 26
+        height: 48
+      alignment: 9
+      pivot: {x: 0.5, y: 0.41666666}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zombiefriends_66
+      rect:
+        serializedVersion: 2
+        x: 1247
+        y: 182
+        width: 34
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zombiefriends_67
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 108
+        width: 35
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zombiefriends_68
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 108
+        width: 34
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zombiefriends_69
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 108
+        width: 33
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zombiefriends_70
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 108
+        width: 33
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zombiefriends_71
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 108
+        width: 33
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zombiefriends_72
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 108
+        width: 32
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zombiefriends_73
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 108
+        width: 31
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zombiefriends_74
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 108
+        width: 31
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zombiefriends_75
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 108
+        width: 33
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zombiefriends_76
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 108
+        width: 33
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zombiefriends_77
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 108
+        width: 33
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zombiefriends_78
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 108
+        width: 33
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zombiefriends_79
+      rect:
+        serializedVersion: 2
+        x: 474
+        y: 108
+        width: 28
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zombiefriends_80
+      rect:
+        serializedVersion: 2
+        x: 514
+        y: 107
+        width: 29
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zombiefriends_81
+      rect:
+        serializedVersion: 2
+        x: 552
+        y: 108
+        width: 27
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zombiefriends_82
+      rect:
+        serializedVersion: 2
+        x: 582
+        y: 108
+        width: 26
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zombiefriends_83
+      rect:
+        serializedVersion: 2
+        x: 613
+        y: 108
+        width: 27
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zombiefriends_84
+      rect:
+        serializedVersion: 2
+        x: 646
+        y: 108
+        width: 29
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zombiefriends_85
+      rect:
+        serializedVersion: 2
+        x: 680
+        y: 108
+        width: 30
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zombiefriends_86
+      rect:
+        serializedVersion: 2
+        x: 713
+        y: 108
+        width: 32
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zombiefriends_87
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 56
+        width: 11
+        height: 17
+      alignment: 9
+      pivot: {x: 0.54588926, y: 0.5212088}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zombiefriends_88
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zombiefriends_89
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zombiefriends_90
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 0
+        width: 31
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zombiefriends_91
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 0
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zombiefriends_92
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 1
+        width: 30
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zombiefriends_93
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 1
+        width: 30
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zombiefriends_94
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 2
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zombiefriends_95
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 3
+        width: 30
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zombiefriends_96
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 57
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zombiefriends_97
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 56
+        width: 18
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zombiefriends_98
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 57
+        width: 17
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zombiefriends_99
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 54
+        width: 18
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zombiefriends_100
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 54
+        width: 15
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zombiefriends_101
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 54
+        width: 11
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zombiefriends_102
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 53
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zombiefriends_103
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 55
+        width: 17
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zombiefriends_104
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 56
+        width: 17
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zombiefriends_105
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 55
+        width: 17
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zombiefriends_106
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 53
+        width: 15
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

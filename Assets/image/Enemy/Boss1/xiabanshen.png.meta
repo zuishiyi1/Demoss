@@ -1,0 +1,702 @@
+fileFormatVersion: 2
+guid: 02c85914007bc8a489da743397663480
+timeCreated: 1516003800
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: xiabanshen_0
+    21300002: xiabanshen_1
+    21300004: xiabanshen_2
+    21300006: xiabanshen_3
+    21300008: xiabanshen_4
+    21300010: xiabanshen_5
+    21300012: xiabanshen_6
+    21300014: xiabanshen_7
+    21300016: xiabanshen_8
+    21300018: xiabanshen_9
+    21300020: xiabanshen_10
+    21300022: xiabanshen_11
+    21300024: xiabanshen_12
+    21300026: xiabanshen_13
+    21300028: xiabanshen_14
+    21300030: xiabanshen_15
+    21300032: xiabanshen_16
+    21300034: xiabanshen_17
+    21300036: xiabanshen_18
+    21300038: xiabanshen_19
+    21300040: xiabanshen_20
+    21300042: xiabanshen_21
+    21300044: xiabanshen_22
+    21300046: xiabanshen_23
+    21300048: xiabanshen_24
+    21300050: xiabanshen_25
+    21300052: xiabanshen_26
+    21300054: xiabanshen_27
+    21300056: xiabanshen_28
+    21300058: xiabanshen_29
+    21300060: xiabanshen_30
+    21300062: xiabanshen_31
+    21300064: xiabanshen_32
+    21300066: xiabanshen_33
+    21300068: xiabanshen_34
+    21300070: xiabanshen_35
+    21300072: xiabanshen_36
+    21300074: xiabanshen_37
+    21300076: xiabanshen_38
+    21300078: xiabanshen_39
+    21300080: xiabanshen_40
+    21300082: xiabanshen_41
+    21300084: xiabanshen_42
+    21300086: xiabanshen_42
+    21300088: xiabanshen_43
+    21300090: xiabanshen_45
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Android
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: xiabanshen_0
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 465
+        width: 21
+        height: 20
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: xiabanshen_1
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 419
+        width: 21
+        height: 20
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: xiabanshen_2
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 419
+        width: 28
+        height: 20
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: xiabanshen_3
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 423
+        width: 31
+        height: 16
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: xiabanshen_4
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 419
+        width: 19
+        height: 20
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: xiabanshen_5
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 419
+        width: 15
+        height: 20
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: xiabanshen_6
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 419
+        width: 16
+        height: 20
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: xiabanshen_7
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 419
+        width: 21
+        height: 20
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: xiabanshen_8
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 419
+        width: 26
+        height: 20
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: xiabanshen_9
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 423
+        width: 31
+        height: 16
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: xiabanshen_10
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 419
+        width: 20
+        height: 20
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: xiabanshen_11
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 419
+        width: 15
+        height: 20
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: xiabanshen_12
+      rect:
+        serializedVersion: 2
+        x: 443
+        y: 419
+        width: 18
+        height: 20
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: xiabanshen_13
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 373
+        width: 18
+        height: 24
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: xiabanshen_14
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 373
+        width: 19
+        height: 24
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: xiabanshen_15
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 373
+        width: 20
+        height: 24
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: xiabanshen_16
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 375
+        width: 20
+        height: 22
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: xiabanshen_17
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 378
+        width: 21
+        height: 19
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: xiabanshen_18
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 379
+        width: 21
+        height: 18
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: xiabanshen_19
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 327
+        width: 27
+        height: 21
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: xiabanshen_20
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 329
+        width: 29
+        height: 19
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: xiabanshen_21
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 331
+        width: 33
+        height: 17
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: xiabanshen_22
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 333
+        width: 30
+        height: 14
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: xiabanshen_23
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 333
+        width: 30
+        height: 14
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: xiabanshen_24
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 332
+        width: 26
+        height: 15
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: xiabanshen_25
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 272
+        width: 33
+        height: 24
+      alignment: 9
+      pivot: {x: 0.5, y: 0.8333333}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: xiabanshen_26
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 272
+        width: 32
+        height: 27
+      alignment: 9
+      pivot: {x: 0.5, y: 0.7407407}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: xiabanshen_27
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 272
+        width: 31
+        height: 26
+      alignment: 9
+      pivot: {x: 0.5, y: 0.7692308}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: xiabanshen_28
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 272
+        width: 35
+        height: 24
+      alignment: 9
+      pivot: {x: 0.5, y: 0.8333333}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: xiabanshen_29
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 272
+        width: 42
+        height: 22
+      alignment: 9
+      pivot: {x: 0.5, y: 0.90909094}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: xiabanshen_30
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 223
+        width: 47
+        height: 22
+      alignment: 9
+      pivot: {x: 0.35106382, y: 0.90909094}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: xiabanshen_31
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 223
+        width: 49
+        height: 21
+      alignment: 9
+      pivot: {x: 0.33673468, y: 0.95238096}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: xiabanshen_32
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 223
+        width: 49
+        height: 21
+      alignment: 9
+      pivot: {x: 0.3367347, y: 0.95238096}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: xiabanshen_33
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 223
+        width: 42
+        height: 23
+      alignment: 9
+      pivot: {x: 0.39285713, y: 0.8695652}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: xiabanshen_34
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 223
+        width: 42
+        height: 24
+      alignment: 9
+      pivot: {x: 0.39285713, y: 0.8333333}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: xiabanshen_35
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 174
+        width: 40
+        height: 24
+      alignment: 9
+      pivot: {x: 0.4125, y: 0.8333333}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: xiabanshen_36
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 174
+        width: 39
+        height: 27
+      alignment: 9
+      pivot: {x: 0.42307693, y: 0.7407407}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: xiabanshen_37
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 174
+        width: 37
+        height: 26
+      alignment: 9
+      pivot: {x: 0.44594595, y: 0.7692308}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: xiabanshen_38
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 174
+        width: 39
+        height: 24
+      alignment: 9
+      pivot: {x: 0.42307693, y: 0.8333333}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: xiabanshen_39
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 174
+        width: 42
+        height: 22
+      alignment: 9
+      pivot: {x: 0.39285713, y: 0.9090909}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: xiabanshen_40
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 122
+        width: 63
+        height: 24
+      alignment: 9
+      pivot: {x: 0.26190478, y: 0.8333333}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: xiabanshen_41
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 122
+        width: 65
+        height: 21
+      alignment: 9
+      pivot: {x: 0.25384617, y: 0.95238096}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: xiabanshen_42
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 122
+        width: 61
+        height: 23
+      alignment: 9
+      pivot: {x: 0.2704918, y: 0.8695652}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: xiabanshen_43
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 122
+        width: 63
+        height: 22
+      alignment: 9
+      pivot: {x: 0.26190478, y: 0.90909094}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

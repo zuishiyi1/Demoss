@@ -1,0 +1,630 @@
+fileFormatVersion: 2
+guid: 66fec649d63874b4c943805b37508cb7
+timeCreated: 1498706285
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Hero_xiabanshen_0
+    21300002: Hero_xiabanshen_1
+    21300004: Hero_xiabanshen_2
+    21300006: Hero_xiabanshen_3
+    21300008: Hero_xiabanshen_4
+    21300010: Hero_xiabanshen_5
+    21300012: Hero_xiabanshen_6
+    21300014: Hero_xiabanshen_7
+    21300016: Hero_xiabanshen_8
+    21300018: Hero_xiabanshen_9
+    21300020: Hero_xiabanshen_10
+    21300022: Hero_xiabanshen_11
+    21300024: Hero_xiabanshen_12
+    21300026: Hero_xiabanshen_13
+    21300028: Hero_xiabanshen_14
+    21300030: Hero_xiabanshen_15
+    21300032: Hero_xiabanshen_16
+    21300034: Hero_xiabanshen_17
+    21300036: Hero_xiabanshen_18
+    21300038: Hero_xiabanshen_19
+    21300040: Hero_xiabanshen_20
+    21300042: Hero_xiabanshen_21
+    21300044: Hero_xiabanshen_22
+    21300046: Hero_xiabanshen_23
+    21300048: Hero_xiabanshen_24
+    21300050: Hero_xiabanshen_25
+    21300052: Hero_xiabanshen_26
+    21300054: Hero_xiabanshen_27
+    21300056: Hero_xiabanshen_28
+    21300058: Hero_xiabanshen_29
+    21300060: Hero_xiabanshen_30
+    21300062: Hero_xiabanshen_31
+    21300064: Hero_xiabanshen_32
+    21300066: Hero_xiabanshen_33
+    21300068: Hero_xiabanshen_34
+    21300070: Hero_xiabanshen_35
+    21300072: Hero_xiabanshen_36
+    21300074: Hero_xiabanshen_37
+    21300076: Hero_xiabanshen_38
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Android
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Hero_xiabanshen_0
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 370
+        width: 21
+        height: 25
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Hero_xiabanshen_1
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 335
+        width: 21
+        height: 25
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Hero_xiabanshen_2
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 337
+        width: 24
+        height: 25
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Hero_xiabanshen_3
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 338
+        width: 14
+        height: 25
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Hero_xiabanshen_4
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 338
+        width: 19
+        height: 25
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Hero_xiabanshen_5
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 338
+        width: 26
+        height: 25
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Hero_xiabanshen_6
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 338
+        width: 16
+        height: 25
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Hero_xiabanshen_7
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 305
+        width: 21
+        height: 18
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Hero_xiabanshen_8
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 305
+        width: 18
+        height: 18
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Hero_xiabanshen_9
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 305
+        width: 16
+        height: 19
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Hero_xiabanshen_10
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 305
+        width: 15
+        height: 18
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Hero_xiabanshen_11
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 270
+        width: 18
+        height: 34
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Hero_xiabanshen_12
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 270
+        width: 19
+        height: 34
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Hero_xiabanshen_13
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 270
+        width: 20
+        height: 33
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Hero_xiabanshen_14
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 272
+        width: 20
+        height: 34
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Hero_xiabanshen_15
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 275
+        width: 21
+        height: 28
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Hero_xiabanshen_16
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 276
+        width: 21
+        height: 27
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Hero_xiabanshen_17
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 239
+        width: 27
+        height: 30
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Hero_xiabanshen_18
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 239
+        width: 29
+        height: 28
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Hero_xiabanshen_19
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 240
+        width: 33
+        height: 26
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Hero_xiabanshen_20
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 242
+        width: 30
+        height: 23
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Hero_xiabanshen_21
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 244
+        width: 30
+        height: 23
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Hero_xiabanshen_22
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 243
+        width: 26
+        height: 24
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Hero_xiabanshen_23
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 208
+        width: 21
+        height: 20
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Hero_xiabanshen_24
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 208
+        width: 28
+        height: 20
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Hero_xiabanshen_25
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 211
+        width: 31
+        height: 16
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Hero_xiabanshen_26
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 211
+        width: 19
+        height: 20
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Hero_xiabanshen_27
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 211
+        width: 15
+        height: 20
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Hero_xiabanshen_28
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 211
+        width: 16
+        height: 20
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Hero_xiabanshen_29
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 211
+        width: 21
+        height: 20
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Hero_xiabanshen_30
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 211
+        width: 26
+        height: 20
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Hero_xiabanshen_31
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 214
+        width: 31
+        height: 16
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Hero_xiabanshen_32
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 211
+        width: 20
+        height: 20
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Hero_xiabanshen_33
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 211
+        width: 15
+        height: 20
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Hero_xiabanshen_34
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 211
+        width: 18
+        height: 20
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Hero_xiabanshen_35
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 178
+        width: 21
+        height: 16
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Hero_xiabanshen_36
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 178
+        width: 21
+        height: 16
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Hero_xiabanshen_37
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 178
+        width: 21
+        height: 16
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Hero_xiabanshen_38
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 178
+        width: 21
+        height: 16
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
